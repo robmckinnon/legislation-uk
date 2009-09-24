@@ -75,6 +75,5 @@ module Legislation
         nil
       end
     end
-
   end
 end
