@@ -1,0 +1,1375 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61" xml:base="http://www.legislation.gov.uk/id/ukpga/1996/61" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="1996-12-18">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier>http://www.legislation.gov.uk/ukpga/1996/61/contents/sld/2002-11-25</dc:identifier>
+    <dc:modified>2009-09-03</dc:modified>
+    <dc:title>Channel Tunnel Rail Link Act 1996</dc:title>
+    <dc:description>An Act to provide for the construction, maintenance and operation of a railway between St. Pancras, in London, and the Channel Tunnel portal at Castle Hill, Folkestone, in Kent, together with associated works, and of works which can be carried out in conjunction therewith; to make provision about related works; to provide for the improvement of the A2 at Cobham, in Kent, and of the M2 between junctions 1 and 4, together with associated works; to make provision with respect to compensation in relation to the acquisition of blighted land; and for connected purposes.</dc:description>
+    <dc:date>1996-12-18</dc:date>
+    <dc:type>text</dc:type>
+    <dc:format>text/xml</dc:format>
+    <dc:language>en</dc:language>
+    <dc:publisher>Statute Law Database</dc:publisher>
+    <dct:valid xmlns:dct="http://purl.org/dc/terms/">2002-11-25</dct:valid>
+    <ukm:PrimaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="primary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+        <ukm:DocumentStatus Value="revised"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="1996"/>
+      <ukm:Number Value="61"/>
+      <ukm:EnactmentDate Date="1996-12-18"/>
+      <ukm:UnappliedEffects>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2007 c. 15" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="2709" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-6" AffectingURI="/id/uksi/2007/2709/article/2" AffectingUpTo="/id/uksi/2007/2709/article/6"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 20" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2004" AffectingNumber="827" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2004/827/article/2" AffectingUpTo="/id/uksi/2004/827/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1909" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1909/article/2"/>
+        <ukm:UnappliedEffect Type="restricted" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2905" AffectingSectionRef="schedule-16-part-1" AffectingURI="/id/uksi/2006/2905/schedule/16/part/1"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-147" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/147"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-148" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/148"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2006 c. 16" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2541" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2541/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1397" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1397/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 21" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1900" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1900/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 11 and 2003 c. 21. This SI is amended by SI 2004/545, SI 2004/697 and SI 2004/1492" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="3142" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2003/3142/article/2" AffectingUpTo="/id/uksi/2003/3142/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="766" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/766/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2007 c. 15" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="2709" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-6" AffectingURI="/id/uksi/2007/2709/article/2" AffectingUpTo="/id/uksi/2007/2709/article/6"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 20" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2004" AffectingNumber="827" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2004/827/article/2" AffectingUpTo="/id/uksi/2004/827/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1909" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1909/article/2"/>
+        <ukm:UnappliedEffect Type="restricted" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2905" AffectingSectionRef="schedule-16-part-1" AffectingURI="/id/uksi/2006/2905/schedule/16/part/1"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-147" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/147"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-148" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/148"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2006 c. 16" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2541" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2541/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1397" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1397/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 21" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1900" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1900/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 11 and 2003 c. 21. This SI is amended by SI 2004/545, SI 2004/697 and SI 2004/1492" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="3142" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2003/3142/article/2" AffectingUpTo="/id/uksi/2003/3142/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="766" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/766/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2007 c. 15" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="2709" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-6" AffectingURI="/id/uksi/2007/2709/article/2" AffectingUpTo="/id/uksi/2007/2709/article/6"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 20" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2004" AffectingNumber="827" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2004/827/article/2" AffectingUpTo="/id/uksi/2004/827/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1909" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1909/article/2"/>
+        <ukm:UnappliedEffect Type="restricted" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2905" AffectingSectionRef="schedule-16-part-1" AffectingURI="/id/uksi/2006/2905/schedule/16/part/1"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-147" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/147"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2006" AffectingNumber="16" AffectingSectionRef="schedule-11-paragraph-148" AffectingURI="/id/ukpga/2006/16/schedule/11/paragraph/148"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2006 c. 16" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2541" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2541/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2003" AffectingNumber="21" AffectingSectionRef="schedule-17-paragraph-138" AffectingURI="/id/ukpga/2003/21/schedule/17/paragraph/138"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1397" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1397/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2003 c. 21" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="1900" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/1900/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 11 and 2003 c. 21. This SI is amended by SI 2004/545, SI 2004/697 and SI 2004/1492" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="3142" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-4" AffectingURI="/id/uksi/2003/3142/article/2" AffectingUpTo="/id/uksi/2003/3142/article/4"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 40" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2003" AffectingNumber="766" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2003/766/article/2"/>
+      </ukm:UnappliedEffects>
+    </ukm:PrimaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsPart ContentRef="part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I" RestrictExtent="E+W+S+N.I." RestrictStartDate="1996-12-18">
+      <ContentsNumber>Part I</ContentsNumber>
+      <ContentsTitle> The Channel Tunnel Rail Link</ContentsTitle>
+      <ContentsPblock ContentRef="part-I-crossheading-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/works">
+        <ContentsTitle>
+          <Title> Works</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-1" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/1" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/1">
+          <ContentsNumber>1</ContentsNumber>
+          <ContentsTitle>
+            <Title> Construction and maintenance of scheduled works</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-2" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/2" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/2">
+          <ContentsNumber>2</ContentsNumber>
+          <ContentsTitle>
+            <Title> Further and supplementary provisions</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-3" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/3" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/3">
+          <ContentsNumber>3</ContentsNumber>
+          <ContentsTitle>
+            <Title> Highways</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-land" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/land" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/land">
+        <ContentsTitle>
+          <Title> Land</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-4" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/4" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/4">
+          <ContentsNumber>4</ContentsNumber>
+          <ContentsTitle>
+            <Title> Acquisition within limits shown on deposited plans</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-5" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/5" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/5" BlanketAmendment="true">
+          <ContentsNumber>5</ContentsNumber>
+          <ContentsTitle>
+            <Title> Acquisition outside limits shown on deposited plans</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-6" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/6" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/6">
+          <ContentsNumber>6</ContentsNumber>
+          <ContentsTitle>
+            <Title> Temporary possession and use</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-7" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/7" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/7">
+          <ContentsNumber>7</ContentsNumber>
+          <ContentsTitle>
+            <Title> Extinguishment of private rights of way</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-8" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/8" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/8">
+          <ContentsNumber>8</ContentsNumber>
+          <ContentsTitle>
+            <Title> Extinguishment of rights of statutory undertakers <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation>
+            </Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-planning-and-heritage" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/planning-and-heritage" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/planning-and-heritage">
+        <ContentsTitle>
+          <Title> Planning and heritage</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-9" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/9" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/9">
+          <ContentsNumber>9</ContentsNumber>
+          <ContentsTitle>
+            <Title> Planning: general</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-10" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/10" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/10" ConfersPower="true">
+          <ContentsNumber>10</ContentsNumber>
+          <ContentsTitle>
+            <Title> Permitted development: time limits</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-11" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/11" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/11" RestrictExtent="E+W+S+N.I." RestrictStartDate="1998-01-26" ConfersPower="true" BlanketAmendment="true">
+          <ContentsNumber>11</ContentsNumber>
+          <ContentsTitle> Fees for planning applications</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-12" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/12">
+          <ContentsNumber>12</ContentsNumber>
+          <ContentsTitle>
+            <Title> Heritage</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-13" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/13" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/13">
+          <ContentsNumber>13</ContentsNumber>
+          <ContentsTitle>
+            <Title> Heritage: rights of entry</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-operation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/operation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/operation">
+        <ContentsTitle>
+          <Title> Operation</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-14" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/14" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/14">
+          <ContentsNumber>14</ContentsNumber>
+          <ContentsTitle>
+            <Title> Operation and use of authorised works</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-15" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/15" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/15">
+          <ContentsNumber>15</ContentsNumber>
+          <ContentsTitle>
+            <Title> Bye-laws</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-application-of-railway-legislation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/application-of-railway-legislation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/application-of-railway-legislation">
+        <ContentsTitle>
+          <Title> Application of railway legislation</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-16" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/16" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/16">
+          <ContentsNumber>16</ContentsNumber>
+          <ContentsTitle>
+            <Title> Licensing</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-17" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/17" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/17">
+          <ContentsNumber>17</ContentsNumber>
+          <ContentsTitle>
+            <Title> Access agreements</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-18" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/18" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/18">
+          <ContentsNumber>18</ContentsNumber>
+          <ContentsTitle>
+            <Title> Closures</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-19" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/19" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/19" RestrictExtent="E+W+S+N.I." RestrictStartDate="2001-02-01" ConfersPower="true">
+          <ContentsNumber>19</ContentsNumber>
+          <ContentsTitle> Railway administration orders</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-20" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/20" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/20">
+          <ContentsNumber>20</ContentsNumber>
+          <ContentsTitle>
+            <Title> Other legislation</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-functions-of-the-rail-regulator" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/functions-of-the-rail-regulator" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/functions-of-the-rail-regulator">
+        <ContentsTitle> Functions of the Rail Regulator</ContentsTitle>
+        <ContentsItem ContentRef="section-21" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/21" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/21" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01">
+          <ContentsNumber>21</ContentsNumber>
+          <ContentsTitle> Duties as to exercise of regulatory functions</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-22" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/22" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/22" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01">
+          <ContentsNumber>22</ContentsNumber>
+          <ContentsTitle> Restriction of functions in relation to competition etc</ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-competition" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/competition" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/competition">
+        <ContentsTitle>
+          <Title> Competition</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-23" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/23" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/23" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01" ConfersPower="true" BlanketAmendment="true">
+          <ContentsNumber>23</ContentsNumber>
+          <ContentsTitle> Restrictive trade practices</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-24" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/24" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/24" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01" ConfersPower="true">
+          <ContentsNumber>24</ContentsNumber>
+          <ContentsTitle> Monopoly situations</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-25" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/25" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/25" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01" ConfersPower="true">
+          <ContentsNumber>25</ContentsNumber>
+          <ContentsTitle> Anti-competitive practices</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-26" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/26" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/26" RestrictExtent="E+W+S+N.I." RestrictStartDate="2000-03-01">
+          <ContentsNumber>26</ContentsNumber>
+          <ContentsTitle> Sections 23 to 25: supplementary provisions</ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-trees" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/trees" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/trees">
+        <ContentsTitle>
+          <Title> Trees</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-27" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/27" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/27">
+          <ContentsNumber>27</ContentsNumber>
+          <ContentsTitle>
+            <Title> Power to deal with trees on neighbouring land</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-28" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/28" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/28" BlanketAmendment="true">
+          <ContentsNumber>28</ContentsNumber>
+          <ContentsTitle>
+            <Title> Disapplication of controls</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-noise" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/noise" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/noise">
+        <ContentsTitle>
+          <Title> Noise</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-29" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/29" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/29" RestrictExtent="E+W+S+N.I." RestrictStartDate="2002-11-25" ConfersPower="true">
+          <ContentsNumber>29</ContentsNumber>
+          <ContentsTitle> Control of construction sites: appeals</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-30" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/30" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/30">
+          <ContentsNumber>30</ContentsNumber>
+          <ContentsTitle>
+            <Title> Proceedings in respect of statutory nuisance: defence</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-financial-matters" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/financial-matters" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/financial-matters">
+        <ContentsTitle>
+          <Title> Financial matters</Title>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-31" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/31" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/31">
+          <ContentsNumber>31</ContentsNumber>
+          <ContentsTitle>
+            <Title> Expenditure in connection with securing construction of works</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-32" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/32" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/32">
+          <ContentsNumber>32</ContentsNumber>
+          <ContentsTitle>
+            <Title> Reserved capacity on the rail link: expenditure</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-33" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/33" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/33">
+          <ContentsNumber>33</ContentsNumber>
+          <ContentsTitle>
+            <Title> Undertakings with respect to financial assistance etc</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+      <ContentsPblock ContentRef="part-I-crossheading-miscellaneous-and-general" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/miscellaneous-and-general" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/I/crossheading/miscellaneous-and-general" RestrictExtent="E+W+S+N.I." RestrictStartDate="2001-02-01">
+        <ContentsTitle> Miscellaneous and general</ContentsTitle>
+        <ContentsItem ContentRef="section-34" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/34" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/34" RestrictStartDate="1996-12-18" ConfersPower="true">
+          <ContentsNumber>34</ContentsNumber>
+          <ContentsTitle>
+            <Title> Holder of functions of nominated undertaker</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-35" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/35" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/35" RestrictStartDate="1996-12-18" BlanketAmendment="true">
+          <ContentsNumber>35</ContentsNumber>
+          <ContentsTitle>
+            <Title> Transfer of functions relating to works</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-36" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/36" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/36" RestrictStartDate="1996-12-18">
+          <ContentsNumber>36</ContentsNumber>
+          <ContentsTitle>
+            <Title> Compensation for injurious affection</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-37" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/37" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/37" RestrictStartDate="1996-12-18">
+          <ContentsNumber>37</ContentsNumber>
+          <ContentsTitle>
+            <Title> Duty to co-operate</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-38" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/38" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/38" RestrictStartDate="1996-12-18">
+          <ContentsNumber>38</ContentsNumber>
+          <ContentsTitle>
+            <Title> Disapplication and modification of miscellaneous controls</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-39" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/39" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/39" RestrictStartDate="1996-12-18" BlanketAmendment="true">
+          <ContentsNumber>39</ContentsNumber>
+          <ContentsTitle>
+            <Title> Burial grounds</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-40" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/40" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/40" RestrictStartDate="1995-07-04" BlanketAmendment="true">
+          <ContentsNumber>40</ContentsNumber>
+          <ContentsTitle>
+            <Title> Application of landlord and tenant law</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-41" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/41" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/41" RestrictStartDate="1996-05-31">
+          <ContentsNumber>41</ContentsNumber>
+          <ContentsTitle>
+            <Title> Variation of development agreement: disapplication of s.2 of Law of Property (Miscellaneous Provisions) Act 1989</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-42" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/42" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/42" RestrictStartDate="1996-12-18">
+          <ContentsNumber>42</ContentsNumber>
+          <ContentsTitle>
+            <Title> Related works: application of section 9 of the Transport and Works Act 1992</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-42A" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/42A" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/42A">
+          <ContentsNumber>42A</ContentsNumber>
+          <ContentsTitle>
+            <Title> Strategic Rail Authority as agent of Secretary of State</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-43" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/43" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/43" RestrictExtent="E+W+S+N.I." RestrictStartDate="1998-01-26" ConfersPower="true">
+          <ContentsNumber>43</ContentsNumber>
+          <ContentsTitle> Arbitration</ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+    </ContentsPart>
+    <ContentsPart ContentRef="part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/II" RestrictExtent="E+W+S+N.I." RestrictStartDate="1996-12-18">
+      <ContentsNumber>Part II</ContentsNumber>
+      <ContentsTitle> The A2 and M2 Improvement Works</ContentsTitle>
+      <ContentsItem ContentRef="section-44" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/44" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/44">
+        <ContentsNumber>44</ContentsNumber>
+        <ContentsTitle>
+          <Title> Authorised works</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-45" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/45" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/45">
+        <ContentsNumber>45</ContentsNumber>
+        <ContentsTitle>
+          <Title> Acquisition of land</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-46" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/46" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/46" RestrictStartDate="1994-11-23">
+        <ContentsNumber>46</ContentsNumber>
+        <ContentsTitle>
+          <Title> Blight: compensation for pre-enactment acquisition</Title>
+        </ContentsTitle>
+      </ContentsItem>
+    </ContentsPart>
+    <ContentsPart ContentRef="part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/III">
+      <ContentsNumber>Part III</ContentsNumber>
+      <ContentsTitle>
+        <Title> Miscellaneous and General</Title>
+      </ContentsTitle>
+      <ContentsItem ContentRef="section-47" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/47" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/47" ConfersPower="true">
+        <ContentsNumber>47</ContentsNumber>
+        <ContentsTitle>
+          <Title> Time limit for powers of compulsory acquisition</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-48" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/48" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/48">
+        <ContentsNumber>48</ContentsNumber>
+        <ContentsTitle>
+          <Title> Power to acquire land by reference to combined effect of works</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-49" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/49" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/49">
+        <ContentsNumber>49</ContentsNumber>
+        <ContentsTitle>
+          <Title> Noise insulation regulations: procedure</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-50" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/50" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/50" RestrictExtent="E+W+S+N.I." RestrictStartDate="2002-11-25">
+        <ContentsNumber>50</ContentsNumber>
+        <ContentsTitle> Overhead lines</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-51" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/51" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/51">
+        <ContentsNumber>51</ContentsNumber>
+        <ContentsTitle>
+          <Title> Replacement concrete batching facilities at <Abbreviation Expansion="Saint">St.</Abbreviation> Pancras</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-52" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/52" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/52">
+        <ContentsNumber>52</ContentsNumber>
+        <ContentsTitle>
+          <Title> Protection of interests</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-53" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/53" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/53">
+        <ContentsNumber>53</ContentsNumber>
+        <ContentsTitle>
+          <Title> Correction of deposited plans</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-54" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/54" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/54">
+        <ContentsNumber>54</ContentsNumber>
+        <ContentsTitle>
+          <Title> Service of documents</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-55" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/55" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/55">
+        <ContentsNumber>55</ContentsNumber>
+        <ContentsTitle>
+          <Title> Financial provision</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-56" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/56" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/56">
+        <ContentsNumber>56</ContentsNumber>
+        <ContentsTitle>
+          <Title> Interpretation</Title>
+        </ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-57" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/57" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/57">
+        <ContentsNumber>57</ContentsNumber>
+        <ContentsTitle>
+          <Title> Short title</Title>
+        </ContentsTitle>
+      </ContentsItem>
+    </ContentsPart>
+    <ContentsSchedules>
+      <ContentsTitle>
+        <Title> SCHEDULES</Title>
+      </ContentsTitle>
+      <ContentsSchedule ContentRef="schedule-1" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1">
+        <ContentsNumber>SCHEDULE 1</ContentsNumber>
+        <ContentsTitle>
+          <Title> Scheduled Works</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-1-crossheading-description-of-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/crossheading/description-of-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/crossheading/description-of-works">
+          <ContentsTitle>
+            <Title> Description of works</Title>
+          </ContentsTitle>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> St. Pancras to Highbury Corner</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> International High Speed Railway</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Domestic Railway</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Thameslink, St. Pancras and King’s Cross</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Midland Main Line</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> London Underground: ticket halls and subways</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Associated Works</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Roadworks</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Sewer diversions</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Highbury Corner to Stratford</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Stratford to Barrington Road</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Barrington Road to Dagenham Dock</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Dagenham Dock to Wennington</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Wennington to Purfleet</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Purfleet to West Thurrock</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> West Thurrock and Ebbsfleet to Singlewell</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Longfield to Singlewell</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Singlewell to Strood</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Strood to Detling</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Detling to Lenham Heath</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Lenham Heath to Ashford Barracks</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Ashford Barracks to Sevington</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Saltwood to Folkestone</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> White City Sidings</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Hoo Sidings</Title>
+            </ContentsTitle>
+          </ContentsItem>
+          <ContentsItem ContentRef="schedule-1-paragraph-Work" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/paragraph/Work" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/paragraph/Work">
+            <ContentsNumber>Work No</ContentsNumber>
+            <ContentsTitle>
+              <Title> Richborough Sidings</Title>
+            </ContentsTitle>
+          </ContentsItem>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-1-crossheading-interpretation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/1/crossheading/interpretation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/1/crossheading/interpretation">
+          <ContentsTitle>
+            <Title> Interpretation</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-2" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2">
+        <ContentsNumber>SCHEDULE 2</ContentsNumber>
+        <ContentsTitle>
+          <Title> Works: Further and Supplementary Provisions</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-2-crossheading-subsidiary-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/subsidiary-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/subsidiary-works">
+          <ContentsTitle>
+            <Title> Subsidiary works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-highway-accesses" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/highway-accesses" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/highway-accesses">
+          <ContentsTitle>
+            <Title> Highway accesses</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-overhead-line-diversions" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/overhead-line-diversions" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/overhead-line-diversions">
+          <ContentsTitle>
+            <Title> Overhead line diversions</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-mitigation-and-protection-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/mitigation-and-protection-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/mitigation-and-protection-works">
+          <ContentsTitle>
+            <Title> Mitigation and protection works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-euston-road-and-york-way-improvement-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/euston-road-and-york-way-improvement-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/euston-road-and-york-way-improvement-works">
+          <ContentsTitle>
+            <Title> Euston Road and York Way improvement works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-underpinning-of-buildings" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/underpinning-of-buildings" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/underpinning-of-buildings">
+          <ContentsTitle>
+            <Title> Underpinning of buildings</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-discharge-of-water" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/discharge-of-water" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/discharge-of-water">
+          <ContentsTitle>
+            <Title> Discharge of water</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-entry-for-preparatory-purposes" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/entry-for-preparatory-purposes" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/entry-for-preparatory-purposes">
+          <ContentsTitle>
+            <Title> Entry for preparatory purposes</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-2-crossheading-temporary-interference-with-waterways" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/2/crossheading/temporary-interference-with-waterways" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/2/crossheading/temporary-interference-with-waterways">
+          <ContentsTitle>
+            <Title> Temporary interference with waterways</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-3" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3">
+        <ContentsNumber>SCHEDULE 3</ContentsNumber>
+        <ContentsTitle>
+          <Title> Highways</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-3-crossheading-stopping-up-nonlevel-crossings" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/stopping-up-nonlevel-crossings" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/stopping-up-nonlevel-crossings">
+          <ContentsTitle>
+            <Title> Stopping up: non-level crossings</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-stopping-up-level-crossings" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/stopping-up-level-crossings" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/stopping-up-level-crossings">
+          <ContentsTitle>
+            <Title> Stopping up: level crossings</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-permanent-obstruction" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/permanent-obstruction" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/permanent-obstruction">
+          <ContentsTitle>
+            <Title> Permanent obstruction</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-temporary-interference" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/temporary-interference" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/temporary-interference">
+          <ContentsTitle>
+            <Title> Temporary interference</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-street-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/street-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/street-works">
+          <ContentsTitle>
+            <Title> Street works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-construction" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/construction" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/construction">
+          <ContentsTitle>
+            <Title> Construction</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-maintenance" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/maintenance" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/maintenance">
+          <ContentsTitle>
+            <Title> Maintenance</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-bridges-carrying-highways" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/bridges-carrying-highways" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/bridges-carrying-highways">
+          <ContentsTitle>
+            <Title> Bridges carrying highways</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-agreements-with-highway-authorities-etc" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/agreements-with-highway-authorities-etc" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/agreements-with-highway-authorities-etc">
+          <ContentsTitle>
+            <Title> Agreements with highway authorities etc</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-3-crossheading-use-of-subsoil" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/3/crossheading/use-of-subsoil" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/3/crossheading/use-of-subsoil">
+          <ContentsTitle> Use of subsoil</ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-4" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4">
+        <ContentsNumber>SCHEDULE 4</ContentsNumber>
+        <ContentsTitle>
+          <Title> Acquisition of Land within Limits Shown on Deposited Plans</Title>
+        </ContentsTitle>
+        <ContentsPart ContentRef="schedule-4-part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/I">
+          <ContentsNumber>Part I</ContentsNumber>
+          <ContentsTitle>
+            <Title> Purposes for which Certain Land may be Acquired or Used</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-4-part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/II">
+          <ContentsNumber>Part II</ContentsNumber>
+          <ContentsTitle>
+            <Title> Application of Legislation Relating to Compulsory Purchase</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-4-part-II-crossheading-lands-clauses-consolidation-act-1845" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/crossheading/lands-clauses-consolidation-act-1845" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/II/crossheading/lands-clauses-consolidation-act-1845">
+            <ContentsTitle>
+              <Title> Lands Clauses Consolidation Act 1845</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-II-crossheading-compulsory-purchase-act-1965" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/crossheading/compulsory-purchase-act-1965" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/II/crossheading/compulsory-purchase-act-1965">
+            <ContentsTitle>
+              <Title> Compulsory Purchase Act 1965</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-II-crossheading-compulsory-purchase-vesting-declarations-act-1981" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/crossheading/compulsory-purchase-vesting-declarations-act-1981" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/II/crossheading/compulsory-purchase-vesting-declarations-act-1981">
+            <ContentsTitle>
+              <Title> Compulsory Purchase (Vesting Declarations) Act 1981</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-4-part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III">
+          <ContentsNumber>Part III</ContentsNumber>
+          <ContentsTitle>
+            <Title> Supplementary Provisions</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-acquisition-of-subsoil" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-subsoil" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-subsoil">
+            <ContentsTitle>
+              <Title> Acquisition of subsoil</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-acquisition-of-existing-tunnels" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-existing-tunnels" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-existing-tunnels">
+            <ContentsTitle>
+              <Title> Acquisition of existing tunnels</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-acquisition-of-new-rights" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-new-rights" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-new-rights">
+            <ContentsTitle>
+              <Title> Acquisition of new rights</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-acquisition-of-part-only-of-certain-properties" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-part-only-of-certain-properties" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/acquisition-of-part-only-of-certain-properties">
+            <ContentsTitle>
+              <Title> Acquisition of part only of certain properties</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-minerals" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/minerals" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/minerals">
+            <ContentsTitle>
+              <Title> Minerals</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-power-to-require-acquisition-where-time-limit-extended" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/power-to-require-acquisition-where-time-limit-extended" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/power-to-require-acquisition-where-time-limit-extended">
+            <ContentsTitle>
+              <Title> Power to require acquisition where time limit extended</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-4-part-III-crossheading-compensation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/III/crossheading/compensation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/4/part/III/crossheading/compensation">
+            <ContentsTitle>
+              <Title> Compensation</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-5" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/5" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/5">
+        <ContentsNumber>SCHEDULE 5</ContentsNumber>
+        <ContentsTitle>
+          <Title> Temporary Possession and Use of Land</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-5-crossheading-occupation-and-use-for-construction-of-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/5/crossheading/occupation-and-use-for-construction-of-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/5/crossheading/occupation-and-use-for-construction-of-works">
+          <ContentsTitle>
+            <Title> Occupation and use for construction of works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-5-crossheading-occupation-and-use-for-maintenance-of-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/5/crossheading/occupation-and-use-for-maintenance-of-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/5/crossheading/occupation-and-use-for-maintenance-of-works">
+          <ContentsTitle>
+            <Title> Occupation and use for maintenance of works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-5-crossheading-suspension-of-private-rights-of-way" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/5/crossheading/suspension-of-private-rights-of-way" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/5/crossheading/suspension-of-private-rights-of-way">
+          <ContentsTitle>
+            <Title> Suspension of private rights of way</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-6" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6">
+        <ContentsNumber>SCHEDULE 6</ContentsNumber>
+        <ContentsTitle>
+          <Title> Planning Conditions</Title>
+        </ContentsTitle>
+        <ContentsPart ContentRef="schedule-6-part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/I">
+          <ContentsNumber>Part I</ContentsNumber>
+          <ContentsTitle>
+            <Title> Qualifying Authorities</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-6-part-I-crossheading-specification" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/I/crossheading/specification" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/I/crossheading/specification">
+            <ContentsTitle>
+              <Title> Specification</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-I-crossheading-transition" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/I/crossheading/transition" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/I/crossheading/transition">
+            <ContentsTitle>
+              <Title> Transition</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-6-part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II">
+          <ContentsNumber>Part II</ContentsNumber>
+          <ContentsTitle>
+            <Title> Development in Greater London</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-6-part-II-crossheading-introductory" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II/crossheading/introductory" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II/crossheading/introductory">
+            <ContentsTitle>
+              <Title> Introductory</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-II-crossheading-planning-regimes" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II/crossheading/planning-regimes" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II/crossheading/planning-regimes">
+            <ContentsTitle>
+              <Title> Planning regimes</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-II-crossheading-conditions-nonqualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-nonqualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-nonqualifying-authority">
+            <ContentsTitle>
+              <Title> Conditions: non-qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-II-crossheading-conditions-qualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-qualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-qualifying-authority">
+            <ContentsTitle>
+              <Title> Conditions: qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-II-crossheading-conditions-general" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-general" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/II/crossheading/conditions-general">
+            <ContentsTitle>
+              <Title> Conditions: general</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-6-part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III">
+          <ContentsNumber>Part III</ContentsNumber>
+          <ContentsTitle>
+            <Title> Development in Essex or Kent</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-introductory" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/introductory" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/introductory">
+            <ContentsTitle>
+              <Title> Introductory</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-planning-regimes-district-councils" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/planning-regimes-district-councils" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/planning-regimes-district-councils">
+            <ContentsTitle>
+              <Title> Planning regimes: district councils</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-district-conditions-nonqualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-nonqualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-nonqualifying-authority">
+            <ContentsTitle>
+              <Title> District conditions: non-qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-district-conditions-qualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-qualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-qualifying-authority">
+            <ContentsTitle>
+              <Title> District conditions: qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-district-conditions-general" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-general" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/district-conditions-general">
+            <ContentsTitle>
+              <Title> District conditions: general</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-planning-regimes-county-councils" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/planning-regimes-county-councils" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/planning-regimes-county-councils">
+            <ContentsTitle>
+              <Title> Planning regimes: county councils</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-county-conditions-nonqualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/county-conditions-nonqualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/county-conditions-nonqualifying-authority">
+            <ContentsTitle>
+              <Title> County conditions: non-qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-III-crossheading-county-conditions-qualifying-authority" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/III/crossheading/county-conditions-qualifying-authority" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/III/crossheading/county-conditions-qualifying-authority">
+            <ContentsTitle>
+              <Title> County conditions: qualifying authority</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-6-part-IV" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV">
+          <ContentsNumber>Part IV</ContentsNumber>
+          <ContentsTitle>
+            <Title> Supplementary</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-6-part-IV-crossheading-programming-of-requests-for-planning-approvals" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV/crossheading/programming-of-requests-for-planning-approvals" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV/crossheading/programming-of-requests-for-planning-approvals">
+            <ContentsTitle>
+              <Title> Programming of requests for planning approvals</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-IV-crossheading-consultation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV/crossheading/consultation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV/crossheading/consultation">
+            <ContentsTitle>
+              <Title> Consultation</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-IV-crossheading-intervention-by-secretary-of-state" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV/crossheading/intervention-by-secretary-of-state" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV/crossheading/intervention-by-secretary-of-state">
+            <ContentsTitle>
+              <Title> Intervention by Secretary of State</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-IV-crossheading-appeals" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV/crossheading/appeals" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV/crossheading/appeals">
+            <ContentsTitle>
+              <Title> Appeals</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-6-part-IV-crossheading-interpretation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/6/part/IV/crossheading/interpretation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/6/part/IV/crossheading/interpretation">
+            <ContentsTitle>
+              <Title> Interpretation</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-7" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/7" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/7">
+        <ContentsNumber>SCHEDULE 7</ContentsNumber>
+        <ContentsTitle>
+          <Title> Heritage</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-7-crossheading-listed-buildings-and-conservation-areas" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/7/crossheading/listed-buildings-and-conservation-areas" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/7/crossheading/listed-buildings-and-conservation-areas">
+          <ContentsTitle>
+            <Title> Listed buildings and conservation areas</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPart ContentRef="schedule-7-part-The" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/7/part/The" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/7/part/The">
+          <ContentsNumber>The Table</ContentsNumber>
+          <ContentsTitle>
+            <Title> Buildings Authorised to be Demolished</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-7-part-The" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/7/part/The" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/7/part/The">
+          <ContentsNumber>The Table</ContentsNumber>
+          <ContentsTitle>
+            <Title> Buildings Authorised to be Extended and Altered</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-7-part-The-crossheading-ancient-monuments-etc" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/7/part/The/crossheading/ancient-monuments-etc" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/7/part/The/crossheading/ancient-monuments-etc">
+            <ContentsTitle>
+              <Title> Ancient monuments etc</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-8" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/8" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/8">
+        <ContentsNumber>SCHEDULE 8</ContentsNumber>
+        <ContentsTitle>
+          <Title> Heritage: rights of entry</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-8-crossheading-historic-buildings-and-monuments-commission-for-england" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/8/crossheading/historic-buildings-and-monuments-commission-for-england" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/8/crossheading/historic-buildings-and-monuments-commission-for-england">
+          <ContentsTitle>
+            <Title> Historic Buildings and Monuments Commission for England</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-8-crossheading-royal-commission-on-the-historical-monuments-of-england" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/8/crossheading/royal-commission-on-the-historical-monuments-of-england" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/8/crossheading/royal-commission-on-the-historical-monuments-of-england">
+          <ContentsTitle>
+            <Title> Royal Commission on the Historical Monuments of England</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-8-crossheading-interpretation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/8/crossheading/interpretation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/8/crossheading/interpretation">
+          <ContentsTitle>
+            <Title> Interpretation</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-9" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9">
+        <ContentsNumber>
+
+    SCHEDULE 9</ContentsNumber>
+        <ContentsTitle>
+          <Title> Application of Other Railway Legislation</Title>
+        </ContentsTitle>
+        <ContentsPart ContentRef="schedule-9-part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/I">
+          <ContentsNumber>Part I</ContentsNumber>
+          <ContentsTitle>
+            <Title> Railways Clauses Acts</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-9-part-I-crossheading-railways-clauses-consolidation-act-1845-c-20" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/I/crossheading/railways-clauses-consolidation-act-1845-c-20" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/I/crossheading/railways-clauses-consolidation-act-1845-c-20">
+            <ContentsTitle>
+              <Title> Railways Clauses Consolidation Act 1845 (c. 20)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-I-crossheading-railways-clauses-act-1863-c-92" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/I/crossheading/railways-clauses-act-1863-c-92" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/I/crossheading/railways-clauses-act-1863-c-92">
+            <ContentsTitle>
+              <Title> Railways Clauses Act 1863 (c. 92)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-9-part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II">
+          <ContentsNumber>Part II</ContentsNumber>
+          <ContentsTitle>
+            <Title> Other Legislation</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-highway-railway-crossings-act-1839-c-45" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/highway-railway-crossings-act-1839-c-45" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/highway-railway-crossings-act-1839-c-45">
+            <ContentsTitle>
+              <Title> Highway (Railway Crossings) Act 1839 (c. 45)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-railway-regulation-act-1842-c-55" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/railway-regulation-act-1842-c-55" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/railway-regulation-act-1842-c-55">
+            <ContentsTitle>
+              <Title> Railway Regulation Act 1842 (c. 55)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-regulation-of-railways-act-1871-c-78" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/regulation-of-railways-act-1871-c-78" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/regulation-of-railways-act-1871-c-78">
+            <ContentsTitle>
+              <Title> Regulation of Railways Act 1871 (c. 78)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-railway-companies-accounts-and-returns-act-1911-c-34" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/railway-companies-accounts-and-returns-act-1911-c-34" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/railway-companies-accounts-and-returns-act-1911-c-34">
+            <ContentsTitle>
+              <Title> Railway Companies (Accounts and Returns) Act 1911 (c. 34)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-british-transport-commission-act-1949-c-xxix" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/british-transport-commission-act-1949-c-xxix" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/british-transport-commission-act-1949-c-xxix">
+            <ContentsTitle>
+              <Title> British Transport Commission Act 1949 (c. xxix)</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-9-part-II-crossheading-miscellaneous" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/II/crossheading/miscellaneous" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/9/part/II/crossheading/miscellaneous">
+            <ContentsTitle>
+              <Title> Miscellaneous</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-10" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10">
+        <ContentsNumber>
+
+    SCHEDULE 10</ContentsNumber>
+        <ContentsTitle>
+          <Title> Disapplication and Modification of Miscellaneous Controls</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-10-crossheading-ecclesiastical-law" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/ecclesiastical-law" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/ecclesiastical-law">
+          <ContentsTitle>
+            <Title> Ecclesiastical law</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-overground-wires" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/overground-wires" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/overground-wires">
+          <ContentsTitle>
+            <Title> Overground wires</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-london-building-acts-amendment-act-1939" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/london-building-acts-amendment-act-1939" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/london-building-acts-amendment-act-1939">
+          <ContentsTitle>
+            <Title> London Building Acts (Amendment) Act 1939</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-coast-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/coast-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/coast-works">
+          <ContentsTitle>
+            <Title> Coast works</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-highways-etc" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/highways-etc" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/highways-etc">
+          <ContentsTitle>
+            <Title> Highways etc</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-sites-of-special-scientific-interest" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/sites-of-special-scientific-interest" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/sites-of-special-scientific-interest" RestrictExtent="E+W+S+N.I." RestrictStartDate="2001-01-30">
+          <ContentsTitle> Areas of special scientific interest</ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-building-regulations" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/building-regulations" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/building-regulations">
+          <ContentsTitle>
+            <Title> Building regulations</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-deposits-in-the-sea" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/deposits-in-the-sea" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/deposits-in-the-sea">
+          <ContentsTitle>
+            <Title> Deposits in the sea</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-london-lorries-general" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/london-lorries-general" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/london-lorries-general">
+          <ContentsTitle>
+            <Title> London lorries: general</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-london-lorries-emergency-permits" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/london-lorries-emergency-permits" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/london-lorries-emergency-permits">
+          <ContentsTitle>
+            <Title> London lorries: emergency permits</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-works-under-streets-in-greater-london" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/works-under-streets-in-greater-london" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/works-under-streets-in-greater-london">
+          <ContentsTitle>
+            <Title> Works under streets in Greater London</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-10-crossheading-communication-with-public-sewers-in-london" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/10/crossheading/communication-with-public-sewers-in-london" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/10/crossheading/communication-with-public-sewers-in-london">
+          <ContentsTitle>
+            <Title> Communication with public sewers in London</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-11" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11">
+        <ContentsNumber>
+
+    SCHEDULE 11</ContentsNumber>
+        <ContentsTitle>
+          <Title> Burial Grounds: Removal of Human Remains and Monuments</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-11-crossheading-notice-of-removal" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11/crossheading/notice-of-removal" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11/crossheading/notice-of-removal">
+          <ContentsTitle>
+            <Title> Notice of removal</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-11-crossheading-removal-of-remains" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11/crossheading/removal-of-remains" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11/crossheading/removal-of-remains">
+          <ContentsTitle>
+            <Title> Removal of remains</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-11-crossheading-removal-of-monuments" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11/crossheading/removal-of-monuments" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11/crossheading/removal-of-monuments">
+          <ContentsTitle>
+            <Title> Removal of monuments</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-11-crossheading-records" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11/crossheading/records" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11/crossheading/records">
+          <ContentsTitle>
+            <Title> Records</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-11-crossheading-supplementary" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/11/crossheading/supplementary" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/11/crossheading/supplementary">
+          <ContentsTitle>
+            <Title> Supplementary</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-12" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12">
+        <ContentsNumber>SCHEDULE 12</ContentsNumber>
+        <ContentsTitle>
+          <Title> The A2 and M2 Improvement Works</Title>
+        </ContentsTitle>
+        <ContentsPart ContentRef="schedule-12-part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/I">
+          <ContentsNumber>Part I</ContentsNumber>
+          <ContentsTitle>
+            <Title> The Authorised Works</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-12-part-I-crossheading-description-of-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/I/crossheading/description-of-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/I/crossheading/description-of-works">
+            <ContentsTitle>
+              <Title> Description of works</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-I-crossheading-interpretation-of-part-i" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/I/crossheading/interpretation-of-part-i" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/I/crossheading/interpretation-of-part-i">
+            <ContentsTitle>
+              <Title> Interpretation of Part I</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-12-part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/II">
+          <ContentsNumber>Part II</ContentsNumber>
+          <ContentsTitle>
+            <Title> Interference with Highways and Means of Access</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-12-part-II-crossheading-stopping-up-of-highways" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/II/crossheading/stopping-up-of-highways" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/II/crossheading/stopping-up-of-highways">
+            <ContentsTitle>
+              <Title> Stopping up of highways</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-II-crossheading-stopping-up-of-private-access-to-premises" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/II/crossheading/stopping-up-of-private-access-to-premises" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/II/crossheading/stopping-up-of-private-access-to-premises">
+            <ContentsTitle>
+              <Title> Stopping up of private access to premises</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-II-crossheading-temporary-interference-with-highways" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/II/crossheading/temporary-interference-with-highways" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/II/crossheading/temporary-interference-with-highways">
+            <ContentsTitle>
+              <Title> Temporary interference with highways</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-12-part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/III">
+          <ContentsNumber>Part III</ContentsNumber>
+          <ContentsTitle>
+            <Title> Miscellaneous</Title>
+          </ContentsTitle>
+          <ContentsPblock ContentRef="schedule-12-part-III-crossheading-status-of-new-highways" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/III/crossheading/status-of-new-highways" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/III/crossheading/status-of-new-highways">
+            <ContentsTitle>
+              <Title> Status of new highways</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-III-crossheading-status-of-operations-and-works" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/III/crossheading/status-of-operations-and-works" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/III/crossheading/status-of-operations-and-works">
+            <ContentsTitle>
+              <Title> Status of operations and works</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-III-crossheading-treatment-of-provisions-of-this-schedule-for-highways-act-purposes" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/III/crossheading/treatment-of-provisions-of-this-schedule-for-highways-act-purposes" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/III/crossheading/treatment-of-provisions-of-this-schedule-for-highways-act-purposes">
+            <ContentsTitle>
+              <Title> Treatment of provisions of this Schedule for Highways Act purposes</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+          <ContentsPblock ContentRef="schedule-12-part-III-crossheading-regulation-of-traffic-on-new-roads" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/12/part/III/crossheading/regulation-of-traffic-on-new-roads" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/12/part/III/crossheading/regulation-of-traffic-on-new-roads">
+            <ContentsTitle>
+              <Title> Regulation of traffic on new roads</Title>
+            </ContentsTitle>
+          </ContentsPblock>
+        </ContentsPart>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-13" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/13" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/13">
+        <ContentsNumber>SCHEDULE 13</ContentsNumber>
+        <ContentsTitle>
+          <Title> A2 and M2 Improvement Works: Purposes for which Certain Land may be Acquired or Used</Title>
+        </ContentsTitle>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-14" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14">
+        <ContentsNumber>
+
+    SCHEDULE 14</ContentsNumber>
+        <ContentsTitle>
+          <Title> Overhead lines: consent</Title>
+        </ContentsTitle>
+        <ContentsPblock ContentRef="schedule-14-crossheading-scope-of-schedule" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/scope-of-schedule" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/scope-of-schedule">
+          <ContentsTitle>
+            <Title> Scope of Schedule</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-consent-requirement" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/consent-requirement" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/consent-requirement">
+          <ContentsTitle>
+            <Title> Consent requirement</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-applications-for-consent" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/applications-for-consent" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/applications-for-consent">
+          <ContentsTitle>
+            <Title> Applications for consent</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-publicity" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/publicity" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/publicity">
+          <ContentsTitle>
+            <Title> Publicity</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-consultation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/consultation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/consultation">
+          <ContentsTitle>
+            <Title> Consultation</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-grant-of-consent" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/grant-of-consent" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/grant-of-consent">
+          <ContentsTitle>
+            <Title> Grant of consent</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-variation-and-revocation-of-consent" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/variation-and-revocation-of-consent" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/variation-and-revocation-of-consent">
+          <ContentsTitle>
+            <Title> Variation and revocation of consent</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-duration-of-consent" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/duration-of-consent" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/duration-of-consent">
+          <ContentsTitle>
+            <Title> Duration of consent</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-anticipatory-applications" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/anticipatory-applications" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/anticipatory-applications">
+          <ContentsTitle>
+            <Title> Anticipatory applications</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+        <ContentsPblock ContentRef="schedule-14-crossheading-interpretation" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/14/crossheading/interpretation" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/14/crossheading/interpretation">
+          <ContentsTitle>
+            <Title> Interpretation</Title>
+          </ContentsTitle>
+        </ContentsPblock>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-15" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15">
+        <ContentsNumber>SCHEDULE 15</ContentsNumber>
+        <ContentsTitle>
+          <Title> Protective Provisions</Title>
+        </ContentsTitle>
+        <ContentsPart ContentRef="schedule-15-part-I" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/I" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/I">
+          <ContentsNumber>
+
+    Part I</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection for Highways and Traffic</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/II">
+          <ContentsNumber>
+    Part II</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection for Electricity, Gas, Water and Sewerage Undertakers</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/III">
+          <ContentsNumber>
+    Part III</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection of Land Drainage, Flood Defence, Water Resources and Fisheries</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-IV" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/IV" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/IV">
+          <ContentsNumber>
+    Part IV</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection of Telecommunications Operators</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-V" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/V" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/V">
+          <ContentsNumber>Part V</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection of Port of Sheerness Limited</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-VI" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/VI" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/VI">
+          <ContentsNumber>
+
+    Part VI</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection of British Waterways Board</Title>
+          </ContentsTitle>
+        </ContentsPart>
+        <ContentsPart ContentRef="schedule-15-part-VII" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/VII" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/schedule/15/part/VII">
+          <ContentsNumber>
+    Part VII</ContentsNumber>
+          <ContentsTitle>
+            <Title> Protection of Port of London Authority</Title>
+          </ContentsTitle>
+        </ContentsPart>
+      </ContentsSchedule>
+    </ContentsSchedules>
+  </Contents>
+</Legislation>
