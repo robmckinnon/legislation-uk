@@ -3,12 +3,6 @@ require 'morph'
 require 'open-uri'
 
 module LegislationUK
-  # module MorphLessMethodMissing
-    # def self.included(base)
-      # base.extend Morph::ClassMethods
-      # base.send(:include, Morph::InstanceMethods)
-    # end
-  # end
 
   module Title
     def title

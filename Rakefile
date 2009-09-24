@@ -18,7 +18,7 @@ begin
     m.rubyforge_name = "legislation-uk"
     m.rdoc_options << '--inline-source'
     m.dependencies = ["morph >=0.2.7", "activesupport >=2.0.2"]
-    # m.rdoc_pattern = ["README", "CHANGELOG", "LICENSE"]
+    m.rdoc_pattern = ["README"] #, "CHANGELOG", "LICENSE"]
   end
 
 rescue LoadError
