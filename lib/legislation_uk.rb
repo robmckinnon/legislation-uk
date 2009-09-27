@@ -10,6 +10,12 @@ module LegislationUK
     end
   end
 
+  module ItemNumber
+    def number
+      contents_number
+    end
+  end
+
   class Legislation
     include Morph
     def parts
@@ -20,9 +26,7 @@ module LegislationUK
   class ContentsPart
     include Morph
     include Title
-    def number
-      contents_number
-    end
+    include ItemNumber
     def blocks
       contents_pblocks ? contents_pblocks : []
     end
@@ -31,6 +35,16 @@ module LegislationUK
   class ContentsPblock
     include Morph
     include Title
+
+    def sections
+      contents_items
+    end
+  end
+
+  class ContentsItem
+    include Morph
+    include Title
+    include ItemNumber
   end
 end
 

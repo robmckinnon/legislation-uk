@@ -58,6 +58,12 @@ describe Legislation::UK do
         @blocks[9].title.should == 'Financial matters'
         @blocks[10].title.should == 'Miscellaneous and general'
       end
+
+      it 'should have sections for first block' do
+        @blocks[0].sections.size.should == 3
+        @blocks[0].sections.first.number.should == '1'
+        @blocks[0].sections.first.title.should == 'Construction and maintenance of scheduled works'
+      end
     end
   end
 
