@@ -24,6 +24,21 @@ module LegislationUK
       open(uri).read
     end
 
+    def legislation_url
+      document_uri
+    end
+
+    def statutelaw_url
+      if legislation_url[%r|http://www.legislation.gov.uk/(.+)/(\d\d\d\d)/(\d+)|]
+        type = $1
+        year = $2
+        chapter = $3
+        "http://www.statutelaw.gov.uk/documents/#{year}/#{chapter}/#{type}/c#{chapter}"
+      else
+        nil
+      end
+    end
+
     def title
       metadata.title
     end
@@ -115,13 +130,5 @@ module Legislation
       end
     end
 
-    def self.find_uri title, number=nil
-      legislation = find(title, number)
-      if legislation
-        legislation.document_uri
-      else
-        nil
-      end
-    end
   end
 end
