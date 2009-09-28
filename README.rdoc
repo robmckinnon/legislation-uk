@@ -21,7 +21,7 @@ Should be up at rubyforge, so to install:
 
 Can be used from command line if you run irb:
 
- irb
+>irb
 
  require 'rubygems'
  require 'legislation_uk'
