@@ -17,7 +17,7 @@ begin
     m.description = File.readlines("README").first
     m.rubyforge_name = "legislation-uk"
     m.rdoc_options << '--inline-source'
-    m.dependencies = ["morph >=0.2.7", "activesupport >=2.0.2"]
+    m.dependencies = ["morph >=0.2.7", "activesupport >=2.0.2", "hpricot >=0.8.1"]
     m.rdoc_pattern = ["README", "CHANGELOG"] #, "LICENSE"]
   end
 

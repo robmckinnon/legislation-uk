@@ -1,8 +1,15 @@
 require 'activesupport'
 require 'morph'
+require 'hpricot'
 require 'open-uri'
 
 module LegislationUK
+
+  module Utils
+    def self.open_uri uri
+      open(uri).read
+    end
+  end
 
   module Title
     def title
@@ -18,8 +25,38 @@ module LegislationUK
 
   class Legislation
     include Morph
+    include LegislationUK::Utils
+
+    def title
+      metadata.title
+    end
+
     def parts
       contents ? contents.contents_parts : []
+    end
+
+    def opsi_url
+      unless @opsi_url
+        search_url = "http://search.opsi.gov.uk/search?q=#{URI.escape(title)}&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection"
+        begin
+          doc = Hpricot.XML Legislation.open_uri(search_url)
+          url = nil
+
+          (doc/'R/T').each do |result|
+            unless url
+              term = result.inner_text.gsub(/<[^>]+>/,'').strip
+              url = result.at('../U/text()').to_s if(title == term || term.starts_with?(title))
+            end
+          end
+
+          @opsi_url = url
+        rescue Exception => e
+          puts 'error retrieving: ' + search_url
+          puts e.class.name
+          puts e.to_s
+        end
+      end
+      @opsi_url
     end
   end
 
@@ -54,9 +91,7 @@ module Legislation
   module UK
     VERSION = "0.0.1"
 
-    def self.open_uri uri
-      open(uri).read
-    end
+    include LegislationUK::Utils
 
     def self.to_object xml
       xml.gsub!(' Type=',' TheType=')
@@ -67,9 +102,9 @@ module Legislation
     end
 
     def self.find title, number=nil
-      number_part = number ? "&number=#{number}" : ''
-      search_url = "http://www.legislation.gov.uk/id?title=#{URI.escape(title)}#{number_part}"
       begin
+        number_part = number ? "&number=#{number}" : ''
+        search_url = "http://www.legislation.gov.uk/id?title=#{URI.escape(title)}#{number_part}"
         xml = Legislation::UK.open_uri(search_url)
         to_object(xml)
       rescue Exception => e

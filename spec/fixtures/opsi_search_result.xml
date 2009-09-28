@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GSP VER="3.2">
+<TM>0.394288</TM><Q>Channel Tunnel Rail Link Act 1996</Q>
+<PARAM name="access" value="p" original_value="p"/>
+<PARAM name="entqr" value="0" original_value="0"/>
+<PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+<PARAM name="sort" value="date:D:L:d1" original_value="date%3AD%3AL%3Ad1"/>
+<PARAM name="site" value="opsi_collection" original_value="opsi_collection"/>
+<PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+<PARAM name="client" value="opsisearch_semaphore" original_value="opsisearch_semaphore"/>
+<PARAM name="q" value="Channel Tunnel Rail Link Act 1996" original_value="Channel+Tunnel+Rail+Link+Act+1996"/>
+<PARAM name="ip" value="86.163.126.201" original_value="86.163.126.201"/>
+<ENTOBRESULTS><OBRES module_name="semaphore">
+
+   <provider>APR Smartlogik Taxonomy Service (wycombe_CM)</provider>
+
+   <title>
+      <urlText>APR Smartlogik Taxonomy Service (wycombe_CM)</urlText>
+      <urlLink></urlLink>
+   </title>
+
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/ConceptMapping.html</U><Title>Concept Mapping</Title>
+
+
+
+      <field name="term" value="IPSV:Abortion">Abortion</field>
+      <field name="term" value="IPSV:Access_for_disabled_people">Access for disabled people</field>
+      <field name="term" value="IPSV:Animal_health">Animal health</field>
+      <field name="term" value="IPSV:Archaeology">Archaeology</field>
+      <field name="term" value="IPSV:Bridges">Bridges</field>
+      <field name="term" value="IPSV:Building_and_construction">Building and construction</field>
+
+      <field name="term" value="IPSV:Business_and_industry">Business and industry</field>
+      <field name="term" value="IPSV:Business_management">Business management</field>
+      <field name="term" value="IPSV:Calibration_services">Calibration services</field>
+      <field name="term" value="IPSV:Care">Care</field>
+      <field name="term" value="IPSV:Charities">Charities</field>
+      <field name="term" value="IPSV:Children_s_homes">Children&apos;s homes</field>
+
+      <field name="term" value="IPSV:Compulsory_purchase">Compulsory purchase</field>
+      <field name="term" value="IPSV:Coroners">Coroners</field>
+      <field name="term" value="IPSV:Country_parks">Country parks</field>
+      <field name="term" value="IPSV:Courts_of_law">Courts of law</field>
+      <field name="term" value="IPSV:Credit_licences">Credit licences</field>
+      <field name="term" value="IPSV:Crime_and_law_enforcement">Crime and law enforcement</field>
+
+      <field name="term" value="IPSV:Debt_advice_services">Debt advice services</field>
+      <field name="term" value="IPSV:Description_of_goods">Description of goods</field>
+      <field name="term" value="IPSV:Disclosure">Disclosure</field>
+      <field name="term" value="IPSV:Drinks">Drinks</field>
+      <field name="term" value="IPSV:Employment_regulations">Employment regulations</field>
+      <field name="term" value="IPSV:Energy_conservation">Energy conservation</field>
+
+      <field name="term" value="IPSV:Energy_efficiency">Energy efficiency</field>
+      <field name="term" value="IPSV:Explosives">Explosives</field>
+      <field name="term" value="IPSV:Family_law">Family law</field>
+      <field name="term" value="IPSV:Fire">Fire</field>
+      <field name="term" value="IPSV:Fire_certificates">Fire certificates</field>
+      <field name="term" value="IPSV:Food_standards">Food standards</field>
+
+      <field name="term" value="IPSV:Freedom_of_information">Freedom of information</field>
+      <field name="term" value="IPSV:Friendly_societies">Friendly societies</field>
+      <field name="term" value="IPSV:Gambling_and_lottery_licences">Gambling and lottery licences</field>
+      <field name="term" value="IPSV:Government__politics_and_public_administration">Government, politics and public administration</field>
+      <field name="term" value="IPSV:Hallmarking">Hallmarking</field>
+      <field name="term" value="IPSV:Health_care_services_and_specialisms">Health care services and specialisms</field>
+
+      <field name="term" value="IPSV:Health__well_being_and_care">Health, well-being and care</field>
+      <field name="term" value="IPSV:Immigration_and_nationality">Immigration and nationality</field>
+      <field name="term" value="IPSV:Information_and_communication_technology">Information and communication technology</field>
+      <field name="term" value="IPSV:Land_drainage">Land drainage</field>
+      <field name="term" value="IPSV:Legislation">Legislation</field>
+      <field name="term" value="IPSV:Mobility_aids">Mobility aids</field>
+
+      <field name="term" value="IPSV:Money_lenders">Money lenders</field>
+      <field name="term" value="IPSV:Pay">Pay</field>
+      <field name="term" value="IPSV:Pensions">Pensions</field>
+      <field name="term" value="IPSV:Ports_and_harbours">Ports and harbours</field>
+      <field name="term" value="IPSV:Race_relations">Race relations</field>
+      <field name="term" value="IPSV:Regulation_and_deregulation">Regulation and deregulation</field>
+
+      <field name="term" value="IPSV:Road_and_pathway_maintenance">Road and pathway maintenance</field>
+      <field name="term" value="IPSV:Roads_and_highways">Roads and highways</field>
+      <field name="term" value="IPSV:Schools">Schools</field>
+      <field name="term" value="IPSV:Scrap_metal_licences">Scrap metal licences</field>
+      <field name="term" value="IPSV:Sports_and_recreation_facilities">Sports and recreation facilities</field>
+      <field name="term" value="IPSV:Weights_and_measures">Weights and measures</field>      <field name="topterm" value="IPSV:Freedom_of_information">Freedom of information</field>
+
+      <field name="topterm" value="IPSV:Land_drainage">Land drainage</field>
+      <field name="topterm" value="IPSV:Legislation">Legislation</field>
+      <field name="topterm" value="IPSV:Mobility_aids">Mobility aids</field>
+      <field name="topterm" value="IPSV:Money_lenders">Money lenders</field>
+      <field name="topterm" value="IPSV:Pensions">Pensions</field>
+      <field name="topterm" value="IPSV:Ports_and_harbours">Ports and harbours</field>
+
+      <field name="topterm" value="IPSV:Race_relations">Race relations</field>
+      <field name="topterm" value="IPSV:Roads_and_highways">Roads and highways</field>
+      <field name="topterm" value="IPSV:Scrap_metal_licences">Scrap metal licences</field>
+   </MODULE_RESULT>
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/RelatedServices,html</U><Title>Related Services</Title>
+      <field name="term" value="IPSV:Adult_and_community_education">Adult and community education</field>
+
+      <field name="term" value="IPSV:Advertising">Advertising</field>
+      <field name="term" value="IPSV:Alcohol_use_and_abuse">Alcohol use and abuse</field>
+      <field name="term" value="IPSV:Animal_rights_and_welfare">Animal rights and welfare</field>
+      <field name="term" value="IPSV:Benefits">Benefits</field>
+      <field name="term" value="IPSV:Children">Children</field>
+      <field name="term" value="IPSV:Civil_and_human_rights">Civil and human rights</field>
+
+      <field name="term" value="IPSV:Death">Death</field>
+      <field name="term" value="IPSV:Employment_relations">Employment relations</field>
+      <field name="term" value="IPSV:Employment_rights">Employment rights</field>
+      <field name="term" value="IPSV:Employment_terms_and_conditions">Employment terms and conditions</field>
+      <field name="term" value="IPSV:Employment_tribunals">Employment tribunals</field>
+      <field name="term" value="IPSV:Explosives_licences">Explosives licences</field>
+
+      <field name="term" value="IPSV:Farming">Farming</field>
+      <field name="term" value="IPSV:Fireworks">Fireworks</field>
+      <field name="term" value="IPSV:International_development_and_aid">International development and aid</field>
+      <field name="term" value="IPSV:Law">Law</field>
+      <field name="term" value="IPSV:Living_standards_and_income_levels">Living standards and income levels</field>
+      <field name="term" value="IPSV:Moorings">Moorings</field>
+
+      <field name="term" value="IPSV:Older_people">Older people</field>
+      <field name="term" value="IPSV:Passports_and_visas">Passports and visas</field>
+      <field name="term" value="IPSV:Personal_finance">Personal finance</field>
+      <field name="term" value="IPSV:Planning_applications">Planning applications</field>
+      <field name="term" value="IPSV:Pubs_and_bars">Pubs and bars</field>
+      <field name="term" value="IPSV:Radio">Radio</field>
+
+      <field name="term" value="IPSV:Refugees_and_asylum_seekers">Refugees and asylum seekers</field>
+      <field name="term" value="IPSV:Retirement">Retirement</field>
+      <field name="term" value="IPSV:Sexual_discrimination">Sexual discrimination</field>
+      <field name="term" value="IPSV:Social_issues">Social issues</field>
+      <field name="term" value="IPSV:Television">Television</field>
+      <field name="term" value="IPSV:Trustees">Trustees</field>
+
+      <field name="term" value="IPSV:Trusts">Trusts</field>
+      <field name="term" value="IPSV:Weight_limits">Weight limits</field>
+      <field name="term" value="IPSV:Work_permits">Work permits</field>      <field name="topterm" value="IPSV:Adult_and_community_education">Adult and community education</field>
+      <field name="topterm" value="IPSV:Advertising">Advertising</field>
+      <field name="topterm" value="IPSV:Alcohol_use_and_abuse">Alcohol use and abuse</field>
+
+      <field name="topterm" value="IPSV:Animal_rights_and_welfare">Animal rights and welfare</field>
+      <field name="topterm" value="IPSV:Benefits">Benefits</field>
+      <field name="topterm" value="IPSV:Children">Children</field>
+      <field name="topterm" value="IPSV:Civil_and_human_rights">Civil and human rights</field>
+      <field name="topterm" value="IPSV:Death">Death</field>
+      <field name="topterm" value="IPSV:Employment_relations">Employment relations</field>
+
+      <field name="topterm" value="IPSV:Employment_rights">Employment rights</field>
+   </MODULE_RESULT>
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/GISServices.html</U><Title>GIS Services</Title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   </MODULE_RESULT>
+
+
+
+</OBRES>
+</ENTOBRESULTS><RES SN="1" EN="10">
+<M>288</M>
+<FI/><NB><NU>/search?q=Channel+Tunnel+Rail+Link+Act+1996&amp;site=opsi_collection&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;output=xml_no_dtd&amp;client=opsisearch_semaphore&amp;access=p&amp;sort=date:D:L:d1&amp;start=10&amp;sa=N</NU>
+</NB>
+
+<R N="1"><U>http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1</U><UE>http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1</UE><T>&lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt; (c. 61)</T><RK>0</RK><FS NAME="date" VALUE="1996-12-18"/><S>&lt;b&gt;...&lt;/b&gt; You are here: Home; Legislation; UK; Acts; Public Acts &lt;b&gt;1996&lt;/b&gt;; &lt;b&gt;Channel Tunnel Rail&lt;/b&gt;&lt;br&gt; &lt;b&gt;Link Act 1996&lt;/b&gt; ( c. 61). Search: &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;. &lt;b&gt;1996&lt;/b&gt; CHAPTER &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="46k" CID="-yhbsFWrOhUJ" ENC="UTF-8"/></HAS></R>
+
+<R N="2" L="2"><U>http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_10</U><UE>http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_10</UE><T>&lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt; (c. 61)</T><RK>0</RK><FS NAME="date" VALUE="1996-12-18"/><S>&lt;b&gt;...&lt;/b&gt; You are here: Home; Legislation; UK; Acts; Public Acts &lt;b&gt;1996&lt;/b&gt;; &lt;b&gt;Channel Tunnel&lt;/b&gt;&lt;br&gt; &lt;b&gt;Rail Link Act 1996&lt;/b&gt; ( c. 61). Search: Advanced Search. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="101k" CID="cjwCfhPK9WMJ" ENC="UTF-8"/></HAS><HN U="www.opsi.gov.uk/acts/acts1996">www.opsi.gov.uk/acts/acts1996</HN></R>
+
+<R N="3"><U>http://www.opsi.gov.uk/acts/acts2008/ukpga_20080005_en_1.htm</U><UE>http://www.opsi.gov.uk/acts/acts2008/ukpga_20080005_en_1.htm</UE><T>&lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; (Supplementary Provisions) &lt;b&gt;Act&lt;/b&gt; 2008 (c. 5 &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="2008-05-22"/><S>An &lt;b&gt;Act&lt;/b&gt; to make provision amending, and supplementary to, the &lt;b&gt;Channel Tunnel&lt;/b&gt;&lt;br&gt; &lt;b&gt;Rail Link Act 1996&lt;/b&gt;. Office of Public Sector Information. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="24k" CID="KPhUCgNbFukJ" ENC="UTF-8"/></HAS></R>
+
+<R N="4" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si2008/pdf/uksi_20083076_en.pdf</U><UE>http://www.opsi.gov.uk/si/si2008/pdf/uksi_20083076_en.pdf</UE><T>2008 No. 3076 TRANSPORT The &lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; (Nomination) &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="2008-11-01"/><S>&lt;b&gt;...&lt;/b&gt; The Secretary of State makes the following Order in exercise of the powers conferred&lt;br&gt; by section 34(1) and (4) of the &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;(a). &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS></R>
+
+<R N="5"><U>http://www.opsi.gov.uk/si/si2008/uksi_20083076_en_1</U><UE>http://www.opsi.gov.uk/si/si2008/uksi_20083076_en_1</UE><T>The &lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; (Nomination) Order 2008 No. 3076</T><RK>0</RK><FS NAME="date" VALUE=""/><S>The Secretary of State may by order made under the &lt;b&gt;Channel Tunnel Rail Link Act&lt;/b&gt;&lt;br&gt; &lt;b&gt;1996&lt;/b&gt; (“the &lt;b&gt;1996 Act&lt;/b&gt;”) specify who is a nominated undertaker in relation to &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="27k" CID="2gGO8ZKQZfcJ" ENC="UTF-8"/></HAS></R>
+
+<R N="6" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si1999/uksi_19990107_en.pdf</U><UE>http://www.opsi.gov.uk/si/si1999/uksi_19990107_en.pdf</UE><T>1999 No. 107 TOWN AND COUNTRY PLANNING, ENGLAND AND WALES The &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="1999-01-07"/><S>&lt;b&gt;...&lt;/b&gt; supplements to that document deposited on 7th November 1995 and 5th December 1995;&lt;br&gt; “the &lt;b&gt;1996 Act&lt;/b&gt;” means the &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;(d); “exempt &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS></R>
+
+<R N="7" L="2" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si1999/uksi_19991985_en.pdf</U><UE>http://www.opsi.gov.uk/si/si1999/uksi_19991985_en.pdf</UE><T>1999 No. 1985 TRANSPORT RAILWAYS The &lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="1999-07-01"/><S>&lt;b&gt;...&lt;/b&gt; for the Environment, Transport and the Regions, in exercise of the powers conferred&lt;br&gt; by section 34(1) and (4) of the &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;(a), and &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS><HN U="www.opsi.gov.uk/si/si1999">www.opsi.gov.uk/si/si1999</HN></R>
+
+<R N="8"><U>http://www.opsi.gov.uk/acts/acts2008/en/ukpgaen_20080005_en_1</U><UE>http://www.opsi.gov.uk/acts/acts2008/en/ukpgaen_20080005_en_1</UE><T>&lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; (Supplementary Provisions) &lt;b&gt;Act&lt;/b&gt; 2008</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; 4. The &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt; (&amp;quot;the &lt;b&gt;1996 Act&lt;/b&gt;&amp;quot;) provided for a new high&lt;br&gt; speed railway between the mouth of the &lt;b&gt;Channel Tunnel&lt;/b&gt; and London St Pancras &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="16k" CID="QuSuD2aayhEJ" ENC="ISO-8859-1"/></HAS></R>
+
+<R N="9" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si2003/uksi_20032834_en.pdf</U><UE>http://www.opsi.gov.uk/si/si2003/uksi_20032834_en.pdf</UE><T>2003 No. 2834 TRANSPORT The &lt;b&gt;Channel Tunnel Rail Link&lt;/b&gt; (Nomination) &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="2003-11-01"/><S>&lt;b&gt;...&lt;/b&gt; The Secretary of State, in exercise of the powers conferred upon him by section&lt;br&gt; 34(1) and (4) of the &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;(a) hereby makes the &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS></R>
+
+<R N="10" MIME="application/pdf"><U>http://www.opsi.gov.uk/acts/acts2008/pdf/ukpga_20080005_en.pdf</U><UE>http://www.opsi.gov.uk/acts/acts2008/pdf/ukpga_20080005_en.pdf</UE><T>400189_CH5 2008</T><RK>0</RK><FS NAME="date" VALUE="2008-07-17"/><S>&lt;b&gt;...&lt;/b&gt; 2008 CHAPTER 5 An &lt;b&gt;Act&lt;/b&gt; to make provision amending, and supplementary to,&lt;br&gt; the &lt;b&gt;Channel Tunnel Rail Link Act 1996&lt;/b&gt;. [22nd May 2008] E &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS></R>
+
+</RES>
+</GSP>
