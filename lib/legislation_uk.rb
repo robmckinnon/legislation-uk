@@ -5,12 +5,6 @@ require 'open-uri'
 
 module LegislationUK
 
-  module Utils
-    def self.open_uri uri
-      open(uri).read
-    end
-  end
-
   module Title
     def title
       contents_title.is_a?(String) ? contents_title.strip : contents_title.title.strip
@@ -25,7 +19,10 @@ module LegislationUK
 
   class Legislation
     include Morph
-    include LegislationUK::Utils
+
+    def self.open_uri uri
+      open(uri).read
+    end
 
     def title
       metadata.title
@@ -89,9 +86,11 @@ end
 # See README for usage documentation.
 module Legislation
   module UK
-    VERSION = "0.0.1"
+    VERSION = "0.0.2"
 
-    include LegislationUK::Utils
+    def self.open_uri uri
+      open(uri).read
+    end
 
     def self.to_object xml
       xml.gsub!(' Type=',' TheType=')

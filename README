@@ -28,6 +28,10 @@ Can be used from command line if you run irb:
 
  legislation = Legislation::UK.find('Channel Tunnel Rail Link Act 1996')
 
+ legislation.title  #=> "Channel Tunnel Rail Link Act 1996"
+
+ legislation.opsi_url #=> "http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1"
+
  legislation.parts.size  #=> 3
 
  legislation.parts.collect(&:number)  #=> ["Part I", "Part II", "Part III"]
