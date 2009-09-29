@@ -1,4 +1,3 @@
-require 'activesupport'
 require 'morph'
 require 'hpricot'
 require 'open-uri'
