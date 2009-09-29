@@ -78,12 +78,6 @@
             <Title>Powers exercisable by statutory instrument</Title>
           </ContentsTitle>
         </ContentsItem>
-        <ContentsItem ContentRef="section-60" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14/section/60" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/60" ConfersPower="true">
-          <ContentsNumber>60</ContentsNumber>
-          <ContentsTitle>
-            <Title>Short title, commencement and extent</Title>
-          </ContentsTitle>
-        </ContentsItem>
       </ContentsPblock>
     </ContentsPart>
     <ContentsSchedules Status="Prospective">

@@ -4,27 +4,51 @@ require 'open-uri'
 
 module LegislationUK
 
-  module Title
+  module TitleHelper
     def title
       contents_title.is_a?(String) ? contents_title.strip : contents_title.title.strip
     end
   end
 
-  module ItemNumber
+  module ItemNumberHelper
     def number
       contents_number
     end
   end
 
-  module LegislationUri
+  module LegislationUriHelper
     def legislation_uri
       document_uri
     end
   end
 
+  module Helper
+    def return_values many
+      if respond_to?(many)
+        send(many) ? send(many) : []
+      else
+        one = many.to_s.singularize.to_sym
+        if respond_to?(one)
+          send(one) ? [send(one)] : []
+        else
+          []
+        end
+      end
+    end
+  end
+
+  class Contents
+    include Morph
+    include Helper
+
+    def parts
+      return_values :contents_parts
+    end
+  end
+
   class Legislation
     include Morph
-    include LegislationUri
+    include LegislationUriHelper
 
     def self.open_uri uri
       open(uri).read
@@ -35,17 +59,7 @@ module LegislationUK
     end
 
     def parts
-      if contents
-        if contents.respond_to?(:contents_parts)
-          contents.contents_parts
-        elsif contents.respond_to?(:contents_part)
-          [contents.contents_part]
-        else
-          []
-        end
-      else
-        []
-      end
+      (respond_to?(:contents) && contents) ? contents.parts : []
     end
 
     def statutelaw_uri
@@ -86,21 +100,18 @@ module LegislationUK
 
   class ContentsPart
     include Morph
-    include Title
-    include ItemNumber
-    include LegislationUri
+    include Helper
+    include TitleHelper
+    include ItemNumberHelper
+    include LegislationUriHelper
 
     def blocks
-      if respond_to?(:contents_pblocks)
-        contents_pblocks ? contents_pblocks : []
-      else
-        []
-      end
+      return_values :contents_pblocks
     end
 
     def sections
       if blocks.empty?
-        contents_items ? contents_items : []
+        return_values :contents_items
       else
         blocks.collect(&:sections).flatten
       end
@@ -109,19 +120,20 @@ module LegislationUK
 
   class ContentsPblock
     include Morph
-    include Title
-    include LegislationUri
+    include Helper
+    include TitleHelper
+    include LegislationUriHelper
 
     def sections
-      contents_items ? contents_items : []
+      return_values :contents_items
     end
   end
 
   class ContentsItem
     include Morph
-    include Title
-    include ItemNumber
-    include LegislationUri
+    include TitleHelper
+    include ItemNumberHelper
+    include LegislationUriHelper
   end
 end
 

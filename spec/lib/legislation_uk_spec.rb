@@ -129,7 +129,7 @@ describe Legislation::UK do
 
   end
 
-  describe 'when act has one part and no section blocks' do
+  describe 'when act has one part and one section blocks' do
 
   before(:all) do
     @title = 'Railways Act 2005'
@@ -146,10 +146,17 @@ describe Legislation::UK do
       @legislation.parts.size.should == 1
     end
 
-    it 'should have a part with an empty block list' do
-      @legislation.parts.first.blocks.should be_empty
+    it 'should have a part with one block' do
+      @legislation.parts.first.blocks.size.should == 1
     end
 
+    it 'should have a section block with one section' do
+      @legislation.parts.first.blocks.first.sections.size.should == 1
+    end
+
+    it 'should have a part with one section' do
+      @legislation.parts.first.sections.size.should == 1
+    end
   end
 
   end
