@@ -1,0 +1,108 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14" xml:base="http://www.legislation.gov.uk/id/ukpga/2005/14" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S" RestrictStartDate="2006-04-07">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier>http://www.legislation.gov.uk/ukpga/2005/14/contents/sld/2006-12-01</dc:identifier>
+    <dc:modified>2009-09-03</dc:modified>
+    <dc:title>Railways Act 2005</dc:title>
+    <dc:description>An Act to amend the law relating to the provision and regulation of railway services; and for connected purposes.</dc:description>
+    <dc:type>text</dc:type>
+    <dc:format>text/xml</dc:format>
+    <dc:language>en</dc:language>
+    <dc:publisher>Statute Law Database</dc:publisher>
+    <dct:valid xmlns:dct="http://purl.org/dc/terms/">2006-12-01</dct:valid>
+    <ukm:PrimaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="primary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+        <ukm:DocumentStatus Value="revised"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2005"/>
+      <ukm:Number Value="14"/>
+      <ukm:EnactmentDate Date="2005-04-07"/>
+      <ukm:UnappliedEffects>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="1951" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/1951/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="266" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/266/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="1993" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2007/1993/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="62" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2007/62/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-5" AffectingURI="/id/uksi/2009/107/article/2" AffectingUpTo="/id/uksi/2009/107/article/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="schedule-1" AffectingEndSectionRef="schedule-5" AffectingURI="/id/uksi/2009/107/schedule/1" AffectingUpTo="/id/uksi/2009/107/schedule/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-5" AffectingURI="/id/uksi/2009/107/article/2" AffectingUpTo="/id/uksi/2009/107/article/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="schedule-1" AffectingEndSectionRef="schedule-5" AffectingURI="/id/uksi/2009/107/schedule/1" AffectingUpTo="/id/uksi/2009/107/schedule/5"/>
+        <ukm:UnappliedEffect Type="added" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="3050" AffectingSectionRef="schedule-1-paragraph-5-b" AffectingURI="/id/uksi/2005/3050/schedule/1/paragraph/5/b"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1444" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1444/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2252" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/2252/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/2812/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="schedule-1" AffectingURI="/id/uksi/2005/2812/schedule/1"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="schedule-2" AffectingURI="/id/uksi/2005/2812/schedule/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1909" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1909/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2007 c. 24" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2008" AffectingNumber="113" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2008/113/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="1951" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/1951/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="266" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/266/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2006/2911/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2006" AffectingNumber="2911" AffectingSectionRef="schedule" AffectingURI="/id/uksi/2006/2911/schedule"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="1993" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2007/1993/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2007" AffectingNumber="62" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2007/62/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-5" AffectingURI="/id/uksi/2009/107/article/2" AffectingUpTo="/id/uksi/2009/107/article/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="schedule-1" AffectingEndSectionRef="schedule-5" AffectingURI="/id/uksi/2009/107/schedule/1" AffectingUpTo="/id/uksi/2009/107/schedule/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="article-2" AffectingEndSectionRef="article-5" AffectingURI="/id/uksi/2009/107/article/2" AffectingUpTo="/id/uksi/2009/107/article/5"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2008 c. 26" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2009" AffectingNumber="107" AffectingStartSectionRef="schedule-1" AffectingEndSectionRef="schedule-5" AffectingURI="/id/uksi/2009/107/schedule/1" AffectingUpTo="/id/uksi/2009/107/schedule/5"/>
+        <ukm:UnappliedEffect Type="added" Notes="" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="3050" AffectingSectionRef="schedule-1-paragraph-5-b" AffectingURI="/id/uksi/2005/3050/schedule/1/paragraph/5/b"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1444" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1444/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2252" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/2252/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/2812/article/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="schedule-1" AffectingURI="/id/uksi/2005/2812/schedule/1"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement for order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="2812" AffectingSectionRef="schedule-2" AffectingURI="/id/uksi/2005/2812/schedule/2"/>
+        <ukm:UnappliedEffect Type="Appointed Day(s)" Notes="commencement order for 2005 c. 14" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2005" AffectingNumber="1909" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2005/1909/article/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2007 c. 24" AffectingClass="UnitedKingdomStatutoryInstrument" AffectingYear="2008" AffectingNumber="113" AffectingSectionRef="article-2" AffectingURI="/id/uksi/2008/113/article/2"/>
+      </ukm:UnappliedEffects>
+    </ukm:PrimaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsPart ContentRef="part-6" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14/part/6" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14/part/6">
+      <ContentsNumber>
+        <Strong>Part 6</Strong>
+      </ContentsNumber>
+      <ContentsTitle>General and supplemental</ContentsTitle>
+      <ContentsPblock ContentRef="part-6-crossheading-supplemental" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14/part/6/crossheading/supplemental" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14/part/6/crossheading/supplemental">
+        <ContentsTitle>
+          <Emphasis>Supplemental</Emphasis>
+        </ContentsTitle>
+        <ContentsItem ContentRef="section-56" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14/section/56" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/56" ConfersPower="true">
+          <ContentsNumber>56</ContentsNumber>
+          <ContentsTitle>
+            <Title>Powers exercisable by statutory instrument</Title>
+          </ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="section-60" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14/section/60" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/60" ConfersPower="true">
+          <ContentsNumber>60</ContentsNumber>
+          <ContentsTitle>
+            <Title>Short title, commencement and extent</Title>
+          </ContentsTitle>
+        </ContentsItem>
+      </ContentsPblock>
+    </ContentsPart>
+    <ContentsSchedules Status="Prospective">
+      <ContentsTitle>
+        <Title>SCHEDULES</Title>
+      </ContentsTitle>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+      <ContentsSchedule ContentRef="" DocumentURI="http://www.legislation.gov.uk/ukpga/2005/14" IdURI="http://www.legislation.gov.uk/id/ukpga/2005/14"/>
+    </ContentsSchedules>
+  </Contents>
+</Legislation>

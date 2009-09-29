@@ -35,7 +35,17 @@ module LegislationUK
     end
 
     def parts
-      contents ? contents.contents_parts : []
+      if contents
+        if contents.respond_to?(:contents_parts)
+          contents.contents_parts
+        elsif contents.respond_to?(:contents_part)
+          [contents.contents_part]
+        else
+          []
+        end
+      else
+        []
+      end
     end
 
     def statutelaw_uri
@@ -81,7 +91,11 @@ module LegislationUK
     include LegislationUri
 
     def blocks
-      contents_pblocks ? contents_pblocks : []
+      if respond_to?(:contents_pblocks)
+        contents_pblocks ? contents_pblocks : []
+      else
+        []
+      end
     end
 
     def sections

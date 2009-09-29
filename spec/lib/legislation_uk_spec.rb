@@ -2,6 +2,9 @@ require 'rubygems'
 require File.dirname(__FILE__) + '/../spec_helper.rb'
 
 describe Legislation::UK do
+
+  describe 'when act has many parts' do
+
   before(:all) do
     @title = 'Channel Tunnel Rail Link Act 1996'
     @number = '61'
@@ -121,6 +124,33 @@ describe Legislation::UK do
         Legislation::UK.find(@title, @number).legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61'
       end
     end
+
+  end
+
+  end
+
+  describe 'when act has one part and no section blocks' do
+
+  before(:all) do
+    @title = 'Railways Act 2005'
+    @number = '14'
+  end
+
+  describe "when searching for legislation" do
+    before(:all) do
+      Legislation::UK.should_receive(:open_uri).and_return fixture('legislation_with_one_part_contents.xml')
+      @legislation = Legislation::UK.find(@title)
+    end
+
+    it 'should have a parts list of size one' do
+      @legislation.parts.size.should == 1
+    end
+
+    it 'should have a part with an empty block list' do
+      @legislation.parts.first.blocks.should be_empty
+    end
+
+  end
 
   end
 
