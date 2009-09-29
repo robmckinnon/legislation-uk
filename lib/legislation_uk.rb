@@ -16,26 +16,18 @@ module LegislationUK
     end
   end
 
+  module LegislationUri
+    def legislation_uri
+      document_uri
+    end
+  end
+
   class Legislation
     include Morph
+    include LegislationUri
 
     def self.open_uri uri
       open(uri).read
-    end
-
-    def legislation_url
-      document_uri
-    end
-
-    def statutelaw_url
-      if legislation_url[%r|http://www.legislation.gov.uk/(.+)/(\d\d\d\d)/(\d+)|]
-        type = $1
-        year = $2
-        chapter = $3
-        "http://www.statutelaw.gov.uk/documents/#{year}/#{chapter}/#{type}/c#{chapter}"
-      else
-        nil
-      end
     end
 
     def title
@@ -46,8 +38,19 @@ module LegislationUK
       contents ? contents.contents_parts : []
     end
 
-    def opsi_url
-      unless @opsi_url
+    def statutelaw_uri
+      if legislation_uri[%r|http://www.legislation.gov.uk/(.+)/(\d\d\d\d)/(\d+)|]
+        type = $1
+        year = $2
+        chapter = $3
+        "http://www.statutelaw.gov.uk/documents/#{year}/#{chapter}/#{type}/c#{chapter}"
+      else
+        nil
+      end
+    end
+
+    def opsi_uri
+      unless @opsi_uri
         search_url = "http://search.opsi.gov.uk/search?q=#{URI.escape(title)}&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection"
         begin
           doc = Hpricot.XML Legislation.open_uri(search_url)
@@ -60,14 +63,14 @@ module LegislationUK
             end
           end
 
-          @opsi_url = url
+          @opsi_uri = url
         rescue Exception => e
           puts 'error retrieving: ' + search_url
           puts e.class.name
           puts e.to_s
         end
       end
-      @opsi_url
+      @opsi_uri
     end
   end
 
@@ -75,6 +78,8 @@ module LegislationUK
     include Morph
     include Title
     include ItemNumber
+    include LegislationUri
+
     def blocks
       contents_pblocks ? contents_pblocks : []
     end
@@ -91,6 +96,7 @@ module LegislationUK
   class ContentsPblock
     include Morph
     include Title
+    include LegislationUri
 
     def sections
       contents_items ? contents_items : []
@@ -101,6 +107,7 @@ module LegislationUK
     include Morph
     include Title
     include ItemNumber
+    include LegislationUri
   end
 end
 

@@ -45,6 +45,12 @@ describe Legislation::UK do
         @parts[2].title.should == 'Miscellaneous and General'
       end
 
+      it 'should have a legislation_uri for each part' do
+        @parts[0].legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61/part/I'
+        @parts[1].legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61/part/II'
+        @parts[2].legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61/part/III'
+      end
+
       it 'should have blocks for each part' do
         @parts[0].blocks.size.should == 11
         @parts[1].blocks.size.should == 0
@@ -65,6 +71,14 @@ describe Legislation::UK do
         @blocks[10].title.should == 'Miscellaneous and general'
       end
 
+      it 'should have legislation_uri for a block' do
+        @blocks[0].legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61/part/I/crossheading/works'
+      end
+
+      it 'should have legislation_uri for a section' do
+        @blocks[0].sections.first.legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61/section/1'
+      end
+
       it 'should have sections for each part containing section blocks' do
         @parts[0].sections.size.should == 44
         @parts[0].sections.last.number.should == '43'
@@ -83,18 +97,18 @@ describe Legislation::UK do
       end
 
       it 'should have legislation url' do
-        @legislation.legislation_url.should == 'http://www.legislation.gov.uk/ukpga/1996/61'
+        @legislation.legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61'
       end
 
       it 'should have statuelaw url' do
-        @legislation.statutelaw_url.should == 'http://www.statutelaw.gov.uk/documents/1996/61/ukpga/c61'
+        @legislation.statutelaw_uri.should == 'http://www.statutelaw.gov.uk/documents/1996/61/ukpga/c61'
       end
 
       describe 'when asked for opsi url' do
         it 'should search legislation site' do
           expected_uri = 'http://search.opsi.gov.uk/search?q=Channel%20Tunnel%20Rail%20Link%20Act%201996&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'
           LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_search_result.xml')
-          @legislation.opsi_url.should == 'http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1'
+          @legislation.opsi_uri.should == 'http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1'
         end
       end
 
@@ -104,7 +118,7 @@ describe Legislation::UK do
       it 'should search legislation site' do
         expected_uri = 'http://www.legislation.gov.uk/id?title=Channel%20Tunnel%20Rail%20Link%20Act%201996&number=61'
         Legislation::UK.should_receive(:open_uri).with(expected_uri).and_return fixture('legislation_contents.xml')
-        Legislation::UK.find(@title, @number).legislation_url.should == 'http://www.legislation.gov.uk/ukpga/1996/61'
+        Legislation::UK.find(@title, @number).legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1996/61'
       end
     end
 
