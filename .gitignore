@@ -2,3 +2,4 @@ pkg
 spec/rcov*
 rdoc
 legislation-uk.gemspec
+*.bak
