@@ -65,6 +65,17 @@ describe Legislation::UK do
         @blocks[10].title.should == 'Miscellaneous and general'
       end
 
+      it 'should have sections for each part containing section blocks' do
+        @parts[0].sections.size.should == 44
+        @parts[0].sections.last.number.should == '43'
+        @parts[0].sections[42].number.should == '42A'
+      end
+
+      it 'should have sections for each part not containing section blocks' do
+        @parts[1].sections.size.should == 3
+        @parts[2].sections.size.should == 11
+      end
+
       it 'should have sections for first block' do
         @blocks[0].sections.size.should == 3
         @blocks[0].sections.first.number.should == '1'

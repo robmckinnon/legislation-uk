@@ -78,6 +78,14 @@ module LegislationUK
     def blocks
       contents_pblocks ? contents_pblocks : []
     end
+
+    def sections
+      if blocks.empty?
+        contents_items ? contents_items : []
+      else
+        blocks.collect(&:sections).flatten
+      end
+    end
   end
 
   class ContentsPblock
@@ -85,7 +93,7 @@ module LegislationUK
     include Title
 
     def sections
-      contents_items
+      contents_items ? contents_items : []
     end
   end
 
