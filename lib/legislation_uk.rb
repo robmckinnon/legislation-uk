@@ -58,6 +58,16 @@ module LegislationUK
       metadata.title
     end
 
+    def sections
+      if parts
+        sections = parts.collect(&:sections).flatten
+        sections.each {|x| x.legislation= self}
+        sections
+      else
+        []
+      end
+    end
+
     def parts
       (respond_to?(:contents) && contents) ? contents.parts : []
     end
@@ -116,6 +126,8 @@ module LegislationUK
           end
         end
         @opsi_sections[section_number][:opsi_uri]
+      elsif @opsi_sections
+        @opsi_sections[section_number][:opsi_uri]
       else
         nil
       end
@@ -158,6 +170,14 @@ module LegislationUK
     include TitleHelper
     include ItemNumberHelper
     include LegislationUriHelper
+
+    def legislation= legislation
+      @legislation = legislation
+    end
+
+    def opsi_uri
+      @legislation.opsi_uri_for_section(number)
+    end
   end
 end
 
