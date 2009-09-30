@@ -96,6 +96,30 @@ module LegislationUK
       end
       @opsi_uri
     end
+
+    def opsi_uri_for_section section_number
+      if opsi_uri && !@opsi_sections
+        section_number = section_number.to_s
+        doc = Hpricot Legislation.open_uri(opsi_uri)
+
+        (doc/'span[@class="LegDS LegContentsNo"]').each do |span|
+          number_of_section = span.inner_text.chomp('.')
+          if span.at('a')
+            path = span.at('a')['href']
+            base = opsi_uri[/^(.+\/)[^\/]+$/,1]
+            section_title = span.next_sibling.inner_text
+
+            @opsi_sections ||= {}
+            @opsi_sections[number_of_section] = { :title => section_title, :opsi_uri => "#{base}#{path}"}
+          else
+            puts "cannot find opsi url for section #{number_of_section} of #{name}"
+          end
+        end
+        @opsi_sections[section_number][:opsi_uri]
+      else
+        nil
+      end
+    end
   end
 
   class ContentsPart
@@ -141,7 +165,7 @@ end
 # See README for usage documentation.
 module Legislation
   module UK
-    VERSION = "0.0.2"
+    VERSION = "0.0.3"
 
     def self.open_uri uri
       open(uri).read

@@ -115,6 +115,16 @@ describe Legislation::UK do
         end
       end
 
+      describe 'when asked for opsi uri for a section' do
+        it 'should return section uri' do
+          expected_uri = 'http://search.opsi.gov.uk/search?q=Channel%20Tunnel%20Rail%20Link%20Act%201996&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'
+          LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_search_result.xml')
+
+          expected_uri = 'http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1'
+          LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_act_contents.htm')
+          @legislation.opsi_uri_for_section(1).should == 'http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_2#pt1-pb1-l1g1'
+        end
+      end
     end
 
     describe "using title and chapter number" do
