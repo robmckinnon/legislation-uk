@@ -125,7 +125,11 @@ module LegislationUK
         end
         @opsi_sections[section_number][:opsi_uri]
       elsif @opsi_sections
-        @opsi_sections[section_number][:opsi_uri]
+        if @opsi_sections[section_number]
+          @opsi_sections[section_number][:opsi_uri]
+        else
+          raise "no opsi url for #{section_number}\n" + @opsi_sections.inspect + "\n\nno opsi url for #{section_number}\n"
+        end
       else
         nil
       end
