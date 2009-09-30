@@ -37,15 +37,6 @@ module LegislationUK
     end
   end
 
-  class Contents
-    include Morph
-    include Helper
-
-    def parts
-      return_values :contents_parts
-    end
-  end
-
   class Legislation
     include Morph
     include LegislationUriHelper
@@ -58,18 +49,25 @@ module LegislationUK
       metadata.title
     end
 
+    def populate
+      parts.each {|x| x.legislation= self}
+      sections.each {|x| x.legislation= self}
+    end
+
     def sections
       if parts
-        sections = parts.collect(&:sections).flatten
-        sections.each {|x| x.legislation= self}
-        sections
+        parts.collect(&:sections).flatten
       else
         []
       end
     end
 
     def parts
-      (respond_to?(:contents) && contents) ? contents.parts : []
+      if respond_to?(:contents) && contents
+        contents.parts
+      else
+        []
+      end
     end
 
     def statutelaw_uri
@@ -134,12 +132,23 @@ module LegislationUK
     end
   end
 
+  class Contents
+    include Morph
+    include Helper
+
+    def parts
+      return_values :contents_parts
+    end
+  end
+
   class ContentsPart
     include Morph
     include Helper
     include TitleHelper
     include ItemNumberHelper
     include LegislationUriHelper
+
+    attr_accessor :legislation
 
     def blocks
       return_values :contents_pblocks
@@ -171,9 +180,7 @@ module LegislationUK
     include ItemNumberHelper
     include LegislationUriHelper
 
-    def legislation= legislation
-      @legislation = legislation
-    end
+    attr_accessor :legislation
 
     def opsi_uri
       @legislation.opsi_uri_for_section(number)
@@ -196,7 +203,9 @@ module Legislation
       xml.gsub!('dc:type','dc:the_type')
       hash = Hash.from_xml(xml)
       namespace = LegislationUK
-      Morph.from_hash(hash, namespace)
+      legislation = Morph.from_hash(hash, namespace)
+      legislation.populate
+      legislation
     end
 
     def self.find title, number=nil

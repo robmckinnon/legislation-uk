@@ -60,6 +60,12 @@ describe Legislation::UK do
         @parts[2].blocks.size.should == 0
       end
 
+      it 'should have each part point back to legislation object' do
+        @parts[0].legislation.should == @legislation
+        @parts[1].legislation.should == @legislation
+        @parts[2].legislation.should == @legislation
+      end
+
       it 'should have title for each block' do
         @blocks[0].title.should == 'Works'
         @blocks[1].title.should == 'Land'
