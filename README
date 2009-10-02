@@ -28,18 +28,38 @@ Can be used from command line if you run irb:
 
  legislation = Legislation::UK.find('Channel Tunnel Rail Link Act 1996')
 
- legislation.title           #=> "Channel Tunnel Rail Link Act 1996"
+ legislation.title
+ #=> "Channel Tunnel Rail Link Act 1996"
 
- legislation.legislation_uri #=> "http://www.legislation.gov.uk/ukpga/1996/61"
+ legislation.legislation_uri
+ #=> "http://www.legislation.gov.uk/ukpga/1996/61"
 
- legislation.opsi_uri        #=> "http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1"
+ legislation.opsi_uri
+ #=> "http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_1"
 
- legislation.statutelaw_uri  #=> "http://www.statutelaw.gov.uk/documents/1996/61/ukpga/c61"
+ legislation.statutelaw_uri
+ #=> "http://www.statutelaw.gov.uk/documents/1996/61/ukpga/c61"
 
- legislation.parts.size      #=> 3
+ legislation.parts.size
+ #=> 3
 
- legislation.parts.collect(&:number) #=> ["Part I", "Part II", "Part III"]
+ legislation.parts.collect(&:number)
+ #=> ["Part I", "Part II", "Part III"]
 
- legislation.parts.collect(&:title)  #=> ["The Channel Tunnel Rail Link",
-                                     #    "The A2 and M2 Improvement Works",
-                                     #    "Miscellaneous and General"]
+ legislation.parts.collect(&:title)
+ #=> ["The Channel Tunnel Rail Link", "The A2 and M2 Improvement Works",
+ #    "Miscellaneous and General"]
+
+ section = legislation.sections.first
+
+ section.title
+ #=> "Construction and maintenance of scheduled works"
+
+ section.number
+ #=> "1"
+
+ section.legislation_uri
+ #=> "http://www.legislation.gov.uk/ukpga/1996/61/section/1"
+
+ section.opsi_uri
+ #=> "http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_2#pt1-pb1-l1g1"
