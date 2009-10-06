@@ -233,6 +233,7 @@ module Legislation
 
     def self.to_object xml
       xml.gsub!(' Type=',' TheType=')
+      xml.gsub!(' type=',' thetype=')
       xml.gsub!('dc:type','dc:the_type')
       hash = Hash.from_xml(xml)
       namespace = LegislationUK
