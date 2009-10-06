@@ -193,6 +193,10 @@ describe Legislation::UK do
       @legislation.parts.first.blocks.size.should == 1
     end
 
+    it 'should have a part with a part number' do
+      @legislation.parts.first.number.should == 'Part 6'
+    end
+
     it 'should have a section block with one section' do
       @legislation.parts.first.blocks.first.sections.size.should == 1
     end

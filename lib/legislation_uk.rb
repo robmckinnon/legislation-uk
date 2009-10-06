@@ -12,7 +12,11 @@ module LegislationUK
 
   module ItemNumberHelper
     def number
-      contents_number
+      if contents_number && contents_number.respond_to?(:strong)
+        contents_number.strong
+      else
+        contents_number
+      end
     end
   end
 
