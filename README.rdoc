@@ -63,3 +63,6 @@ Can be used from command line if you run irb:
 
  section.opsi_uri
  #=> "http://www.opsi.gov.uk/acts/acts1996/ukpga_19960061_en_2#pt1-pb1-l1g1"
+
+ section.statutelaw_uri
+ #=> "http://www.statutelaw.gov.uk/documents/1996/61/ukpga/c61/PartI/1"

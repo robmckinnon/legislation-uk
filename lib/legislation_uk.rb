@@ -50,8 +50,23 @@ module LegislationUK
     end
 
     def populate
-      parts.each {|x| x.legislation= self}
-      sections.each {|x| x.legislation= self}
+      parts.each do |part|
+        part.legislation = self
+        part.sections.each do |section|
+          section.part = part
+        end
+      end
+
+      @sections_index = {}
+      sections.each do |section|
+        section.legislation = self
+        @sections_index[section.number] = section
+      end
+    end
+
+    def section section_number
+      section_number = section_number.to_s unless section_number.is_a?(String)
+      @sections_index[section_number]
     end
 
     def sections
@@ -155,6 +170,11 @@ module LegislationUK
 
     attr_accessor :legislation
 
+    def statutelaw_uri
+      base = legislation.statutelaw_uri
+      "#{base}/#{number.gsub(' ','')}"
+    end
+
     def blocks
       return_values :contents_pblocks
     end
@@ -185,10 +205,18 @@ module LegislationUK
     include ItemNumberHelper
     include LegislationUriHelper
 
-    attr_accessor :legislation
+    attr_accessor :legislation, :part
 
     def opsi_uri
       @legislation.opsi_uri_for_section(number)
+    end
+
+    def statutelaw_uri
+      if part && (base = part.statutelaw_uri)
+        "#{base}/#{number}"
+      else
+        nil
+      end
     end
   end
 end
@@ -197,7 +225,7 @@ end
 # See README for usage documentation.
 module Legislation
   module UK
-    VERSION = "0.0.3"
+    VERSION = "0.0.4"
 
     def self.open_uri uri
       open(uri).read
