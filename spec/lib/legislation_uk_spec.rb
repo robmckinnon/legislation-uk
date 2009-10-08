@@ -10,6 +10,24 @@ describe Legislation::UK do
     @number = '61'
   end
 
+  describe "when searching for legislation and socket error occurs" do
+    before(:all) do
+      Legislation::UK.should_receive(:open_uri).and_raise SocketError.new
+    end
+    it 'should return nil' do
+      Legislation::UK.find(@title).should be_nil
+    end
+  end
+
+  describe "when searching for legislation and Errno::ETIMEDOUT occurs" do
+    before(:all) do
+      Legislation::UK.should_receive(:open_uri).and_raise Errno::ETIMEDOUT.new
+    end
+    it 'should return nil' do
+      Legislation::UK.find(@title).should be_nil
+    end
+  end
+
   describe "when searching for legislation" do
     before(:all) do
       Legislation::UK.should_receive(:open_uri).and_return fixture('legislation_contents.xml')
@@ -130,6 +148,18 @@ describe Legislation::UK do
       end
 
       describe 'when asked for opsi uri for a section' do
+
+        describe 'when exception retrieving opsi uri' do
+          it 'should return nil' do
+            expected_uri = 'http://search.opsi.gov.uk/search?q=Channel%20Tunnel%20Rail%20Link%20Act%201996&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'
+            LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).exactly(3).times.and_raise SocketError.new
+
+            @legislation.opsi_uri_for_section(1).should be_nil
+            @legislation.section(1).opsi_uri.should be_nil
+            @legislation.sections.first.opsi_uri.should be_nil
+
+          end
+        end
 
         it 'should return section uri' do
           expected_uri = 'http://search.opsi.gov.uk/search?q=Channel%20Tunnel%20Rail%20Link%20Act%201996&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'

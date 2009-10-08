@@ -116,9 +116,7 @@ module LegislationUK
 
           @opsi_uri = url
         rescue Exception => e
-          puts 'error retrieving: ' + search_url
-          puts e.class.name
-          puts e.to_s
+          puts "#{e.class.name} error retrieving: #{search_url}" if $debug
         end
       end
       @opsi_uri
@@ -247,16 +245,13 @@ module Legislation
     end
 
     def self.find title, number=nil
+      number_part = number ? "&number=#{number}" : ''
+      search_url = "http://www.legislation.gov.uk/id?title=#{URI.escape(title)}#{number_part}"
       begin
-        number_part = number ? "&number=#{number}" : ''
-        search_url = "http://www.legislation.gov.uk/id?title=#{URI.escape(title)}#{number_part}"
         xml = Legislation::UK.open_uri(search_url)
         to_object(xml)
       rescue Exception => e
-        puts 'error retrieving: ' + search_url
-        puts e.class.name
-        puts e.to_s
-        raise e
+        puts "#{e.class.name} error retrieving: #{search_url}" if $debug
         nil
       end
     end
