@@ -255,6 +255,30 @@ describe Legislation::UK do
         @legislation.sections.first.legislation_uri.should == 'http://www.legislation.gov.uk/ukpga/1965/22/section/1'
       end
 
+      it 'should have statutelaw_uri for a section' do
+        @legislation.sections.first.statutelaw_uri.should == 'http://www.statutelaw.gov.uk/documents/1965/22/ukpga/c22/1'
+      end
+
+      describe 'when asked for opsi url' do
+        it 'should search legislation site' do
+          expected_uri = 'http://search.opsi.gov.uk/search?q=Law%20Commissions%20Act%201965&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'
+          LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_search_result_without_parts.xml')
+          @legislation.opsi_uri.should == 'http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1965/cukpga_19650022_en_1'
+        end
+      end
+
+      describe 'when asked for opsi url for section' do
+        it 'should have opsi_uri for a section' do
+          expected_uri = 'http://search.opsi.gov.uk/search?q=Law%20Commissions%20Act%201965&output=xml_no_dtd&client=opsisearch_semaphore&site=opsi_collection'
+          LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_search_result_without_parts.xml')
+
+          expected_uri = 'http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1965/cukpga_19650022_en_1'
+          LegislationUK::Legislation.should_receive(:open_uri).with(expected_uri).and_return fixture('opsi_act_contents_without_parts.htm')
+
+          @legislation.sections.first.opsi_uri.should == 'http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1965/cukpga_19650022_en_1#l1g1'
+        end
+      end
+
       it 'should have title for a section' do
         @legislation.sections.first.title.should == 'The Law Commission'
       end

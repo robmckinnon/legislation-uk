@@ -128,21 +128,15 @@ module LegislationUK
       if opsi_uri && !@opsi_sections
         section_number = section_number.to_s
         doc = Hpricot Legislation.open_uri(opsi_uri)
+        @opsi_sections ||= {}
 
-        (doc/'span[@class="LegDS LegContentsNo"]').each do |span|
-          number_of_section = span.inner_text.chomp('.')
-          if span.at('a')
-            path = span.at('a')['href']
-            base = opsi_uri[/^(.+\/)[^\/]+$/,1]
-            section_title = span.next_sibling.inner_text
+        uri = find_opsi_uris_from_contents doc, section_number
 
-            @opsi_sections ||= {}
-            @opsi_sections[number_of_section] = { :title => section_title, :opsi_uri => "#{base}#{path}"}
-          else
-            puts "cannot find opsi url for section #{number_of_section} of #{name}"
-          end
+        if uri.blank?
+          uri = find_opsi_uris_from_text doc, section_number
+        else
+          uri
         end
-        @opsi_sections[section_number][:opsi_uri]
       elsif @opsi_sections
         if @opsi_sections[section_number]
           @opsi_sections[section_number][:opsi_uri]
@@ -154,6 +148,33 @@ module LegislationUK
         nil
       end
     end
+
+    private
+      def find_opsi_uris_from_contents doc, section_number
+        (doc/'span[@class="LegDS LegContentsNo"]').each do |span|
+          number_of_section = span.inner_text.chomp('.')
+          if span.at('a')
+            path = span.at('a')['href']
+            base = opsi_uri[/^(.+\/)[^\/]+$/,1]
+            section_title = span.next_sibling.inner_text
+
+            @opsi_sections[number_of_section] = { :title => section_title, :opsi_uri => "#{base}#{path}"}
+          else
+            puts "cannot find opsi url for section #{number_of_section} of #{name}"
+          end
+        end
+        @opsi_sections[section_number] ? @opsi_sections[section_number][:opsi_uri] : nil
+      end
+
+      def find_opsi_uris_from_text doc, section_number
+        (doc/'span[@class="LegDS LegP1GroupTitle"]').each do |span|
+          section_title = span.inner_text.strip
+          number_span = span.previous_sibling
+          number_of_section = number_span.inner_text.strip
+          @opsi_sections[number_of_section] = { :title => section_title, :opsi_uri => "#{opsi_uri}##{number_span['id']}"}
+        end
+        @opsi_sections[section_number][:opsi_uri]
+      end
   end
 
   class Contents
@@ -221,6 +242,8 @@ module LegislationUK
 
     def statutelaw_uri
       if part && (base = part.statutelaw_uri)
+        "#{base}/#{number}"
+      elsif (base = @legislation.statutelaw_uri)
         "#{base}/#{number}"
       else
         nil

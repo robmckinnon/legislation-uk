@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GSP VER="3.2">
+<TM>0.185778</TM><Q>Law Commissions Act 1965</Q>
+<PARAM name="access" value="p" original_value="p"/>
+<PARAM name="entqr" value="0" original_value="0"/>
+<PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+<PARAM name="sort" value="date:D:L:d1" original_value="date%3AD%3AL%3Ad1"/>
+<PARAM name="site" value="opsi_collection" original_value="opsi_collection"/>
+<PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+<PARAM name="client" value="opsisearch_semaphore" original_value="opsisearch_semaphore"/>
+<PARAM name="q" value="Law Commissions Act 1965" original_value="Law+Commissions+Act+1965"/>
+<PARAM name="ip" value="217.42.137.81" original_value="217.42.137.81"/>
+<ENTOBRESULTS><OBRES module_name="semaphore">
+
+   <provider>APR Smartlogik Taxonomy Service (wycombe_CM)</provider>
+   <title>
+      <urlText>APR Smartlogik Taxonomy Service (wycombe_CM)</urlText>
+      <urlLink></urlLink>
+   </title>
+
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/ConceptMapping.html</U><Title>Concept Mapping</Title>
+
+
+
+      <field name="term" value="IPSV:Family_law">Family law</field>      <field name="topterm" value="IPSV:Family_law">Family law</field>
+   </MODULE_RESULT>
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/RelatedServices,html</U><Title>Related Services</Title>
+      <field name="term" value="IPSV:Children">Children</field>
+      <field name="term" value="IPSV:Law">Law</field>      <field name="topterm" value="IPSV:Children">Children</field>
+      <field name="topterm" value="IPSV:Law">Law</field>
+   </MODULE_RESULT>
+   <MODULE_RESULT><U>http://www.aprsmarlogik.com/Google/GISServices.html</U><Title>GIS Services</Title>
+
+   </MODULE_RESULT>
+
+
+
+</OBRES>
+</ENTOBRESULTS><RES SN="1" EN="10">
+<M>110</M>
+<FI/><NB><NU>/search?q=Law+Commissions+Act+1965&amp;site=opsi_collection&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;output=xml_no_dtd&amp;client=opsisearch_semaphore&amp;access=p&amp;sort=date:D:L:d1&amp;start=10&amp;sa=N</NU>
+</NB>
+
+<R N="1"><U>http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1965/cukpga_19650022_en_1</U><UE>http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1965/cukpga_19650022_en_1</UE><T>&lt;b&gt;Law Commissions Act 1965&lt;/b&gt; (c. 22)</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; Page 1 of 1. Revised Statute from The UK Statute &lt;b&gt;Law&lt;/b&gt; Database. &lt;b&gt;Law Commissions&lt;/b&gt;&lt;br&gt; &lt;b&gt;Act 1965&lt;/b&gt; (c. 22). &lt;b&gt;...&lt;/b&gt; &lt;b&gt;Law Commissions Act 1965&lt;/b&gt;. &lt;b&gt;1965&lt;/b&gt; CHAPTER 22. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="47k" CID="8U0jExSBMCIJ" ENC="UTF-8"/></HAS></R>
+<R N="2" L="2"><U>http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1985/cukpga_19850073_en_8</U><UE>http://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1985/cukpga_19850073_en_8</UE><T>&lt;b&gt;Law&lt;/b&gt; Reform (Miscellaneous Provisions) (Scotland) &lt;b&gt;Act&lt;/b&gt; 1985 (c. 73)</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; Section 7(2). Section 18(4) and (5). Section 35(5)(b). &lt;b&gt;1965&lt;/b&gt; c. 22. The &lt;b&gt;Law Commissions&lt;/b&gt;&lt;br&gt; &lt;b&gt;Act 1965&lt;/b&gt;. Section 2(5). 1971 c. 10, The Vehicles (Excise) &lt;b&gt;Act&lt;/b&gt; 1971. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="30k" CID="KVsWRBl4KskJ" ENC="UTF-8"/></HAS><HN U="www.opsi.gov.uk/RevisedStatutes/Acts/ukpga">www.opsi.gov.uk/RevisedStatutes/Acts/ukpga</HN></R>
+<R N="3"><U>http://www.opsi.gov.uk/revisedStatutes/uk-acts-1965a</U><UE>http://www.opsi.gov.uk/revisedStatutes/uk-acts-1965a</UE><T>Revised UK Acts &lt;b&gt;1965&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; Web version (HTML). &lt;b&gt;Law Commissions Act 1965&lt;/b&gt; (c. 22): &lt;b&gt;1965&lt;/b&gt; c.22 - Web version&lt;br&gt; (HTML). Matrimonial Causes &lt;b&gt;Act 1965&lt;/b&gt; (c.72): &lt;b&gt;1965&lt;/b&gt; c.72 &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="17k" CID="74cYe8O92Z0J" ENC="ISO-8859-1"/></HAS></R>
+<R N="4"><U>http://www.opsi.gov.uk/acts/acts2005/ukpga_20050004_en_37</U><UE>http://www.opsi.gov.uk/acts/acts2005/ukpga_20050004_en_37</UE><T>Constitutional Reform &lt;b&gt;Act&lt;/b&gt; 2005 (c. 4)</T><RK>0</RK><FS NAME="date" VALUE="2005-03-24"/><S>&lt;b&gt;...&lt;/b&gt; &lt;b&gt;Law Commissions Act 1965&lt;/b&gt; (c. 22). 17 In section 6 of the &lt;b&gt;Law Commissions&lt;/b&gt;&lt;br&gt; &lt;b&gt;Act 1965&lt;/b&gt; (supplemental) for the words from “has the same &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="58k" CID="qIVLA8yCA88J" ENC="UTF-8"/></HAS></R>
+<R N="5" MIME="application/pdf"><U>http://www.opsi.gov.uk/sr/sr2007/pdf/nisr_20070237_en.pdf</U><UE>http://www.opsi.gov.uk/sr/sr2007/pdf/nisr_20070237_en.pdf</UE><T>2007 No. 237 (C. 14) JUSTICE The Justice (Northern Ireland) &lt;b&gt;Act&lt;/b&gt; &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="2007-03-01"/><S>&lt;b&gt;...&lt;/b&gt; 7. In Schedule 13 (repeals and revocations) the entries in respect of— (a) the&lt;br&gt; &lt;b&gt;Law Commissions Act 1965&lt;/b&gt;(a); (b) the Northern Ireland Assembly &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/></HAS></R>
+<R N="6"><U>http://www.opsi.gov.uk/RevisedStatutes/Acts/apni/1965/capni_19650013_en_1</U><UE>http://www.opsi.gov.uk/RevisedStatutes/Acts/apni/1965/capni_19650013_en_1</UE><T>New Towns &lt;b&gt;Act&lt;/b&gt; (Northern Ireland) &lt;b&gt;1965&lt;/b&gt; (Chapter 13)</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; (b)save as is provided by or under this &lt;b&gt;Act&lt;/b&gt;, authorise them to disregard any enactment&lt;br&gt; or rule of &lt;b&gt;law&lt;/b&gt;. 18Borrowing powers of new town &lt;b&gt;commissions&lt;/b&gt;. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="81k" CID="2MHyBkTQwx0J" ENC="UTF-8"/></HAS></R>
+<R N="7" L="2"><U>http://www.opsi.gov.uk/RevisedStatutes/Acts/apni/1965/capni_19650013_en_2</U><UE>http://www.opsi.gov.uk/RevisedStatutes/Acts/apni/1965/capni_19650013_en_2</UE><T>New Towns &lt;b&gt;Act&lt;/b&gt; (Northern Ireland) &lt;b&gt;1965&lt;/b&gt; (Chapter 13)</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; New Towns &lt;b&gt;Act&lt;/b&gt; (Northern Ireland) &lt;b&gt;1965&lt;/b&gt; (Chapter 13). Search: Advanced Search. &lt;b&gt;...&lt;/b&gt; continued&lt;br&gt; DEVELOPMENT FUNCTIONS OF NEW TOWN &lt;b&gt;COMMISSIONS&lt;/b&gt; continued. &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="80k" CID="rbbIB84pXeMJ" ENC="UTF-8"/></HAS><HN U="www.opsi.gov.uk/RevisedStatutes/Acts/apni">www.opsi.gov.uk/RevisedStatutes/Acts/apni</HN></R>
+<R N="8" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si2008/draft/em/ukdsiem_9780110814605_en.pdf</U><UE>http://www.opsi.gov.uk/si/si2008/draft/em/ukdsiem_9780110814605_en.pdf</UE><T>EXPLANATORY MEMORANDUM TO THE MAXIMUM NUMBER OF JUDGES ORDER 2008</T><RK>0</RK><FS NAME="date" VALUE="2008-06-27"/><S>&lt;b&gt;...&lt;/b&gt; 7.1 The &lt;b&gt;Law Commissions Act 1965&lt;/b&gt; provided (s.1(2)) for all the &lt;b&gt;Law&lt;/b&gt; Commissioners&lt;br&gt; to be persons appearing to the Lord Chancellor to be suitably qualified by the &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="" CID="NFz4l_5RCssJ" ENC="UTF-8"/></HAS></R>
+<R N="9" MIME="application/pdf"><U>http://www.opsi.gov.uk/si/si2008/em/uksiem_20081777_en.pdf</U><UE>http://www.opsi.gov.uk/si/si2008/em/uksiem_20081777_en.pdf</UE><T>EXPLANATORY MEMORANDUM TO THE MAXIMUM NUMBER OF JUDGES ORDER 2008 &lt;b&gt;...&lt;/b&gt;</T><RK>0</RK><FS NAME="date" VALUE="2008-08-08"/><S>&lt;b&gt;...&lt;/b&gt; 7.1 The &lt;b&gt;Law Commissions Act 1965&lt;/b&gt; provided (s.1(2)) for all the &lt;b&gt;Law&lt;/b&gt; Commissioners&lt;br&gt; to be persons appearing to the Lord Chancellor to be suitably qualified by the &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="" CID="7QHWDFymEx4J" ENC="UTF-8"/></HAS></R>
+<R N="10"><U>http://www.opsi.gov.uk/si/si1999/99182002.htm</U><UE>http://www.opsi.gov.uk/si/si1999/99182002.htm</UE><T>Statutory Instruments 1999 No.1820</T><RK>0</RK><FS NAME="date" VALUE=""/><S>&lt;b&gt;...&lt;/b&gt; &lt;b&gt;Law Commissions Act 1965&lt;/b&gt; (c.22) 36. - (1) The &lt;b&gt;Law Commissions Act&lt;/b&gt;&lt;br&gt; &lt;b&gt;1965&lt;/b&gt;[26] is amended as follows. (2) In section 2(1), (2) and (3 &lt;b&gt;...&lt;/b&gt;  </S><LANG>en</LANG><HAS><L/><C SZ="41k" CID="Q4YEoG8lkgwJ" ENC="ISO-8859-1"/></HAS></R>
+</RES>
+</GSP>
