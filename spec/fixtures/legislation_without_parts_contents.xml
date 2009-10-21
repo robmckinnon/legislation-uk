@@ -1,0 +1,63 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22" xml:base="http://www.legislation.gov.uk/id/ukpga/1965/22" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I.">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier>http://www.legislation.gov.uk/ukpga/1965/22/contents/1999-07-01</dc:identifier>
+    <dc:modified>2009-09-03</dc:modified>
+    <dc:title>Law Commissions Act 1965</dc:title>
+    <dc:description>An Act to provide for the constitution of Commissions for the reform of the law.</dc:description>
+    <dc:date>1965-06-15</dc:date>
+    <dc:type>text</dc:type>
+    <dc:format>text/xml</dc:format>
+    <dc:language>en</dc:language>
+    <dc:publisher>Statute Law Database</dc:publisher>
+    <dct:valid xmlns:dct="http://purl.org/dc/terms/">1999-07-01</dct:valid>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/xml" href="http://legislation.data.gov.uk/ukpga/1965/22/contents/1999-07-01/data.xml"/>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/ukpga/1965/22/contents/1999-07-01/data.htm" title="HTML snippet"/>
+    <ukm:PrimaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="primary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+        <ukm:DocumentStatus Value="revised"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="1965"/>
+      <ukm:Number Value="22"/>
+      <ukm:EnactmentDate Date="1965-06-15"/>
+      <ukm:UnappliedEffects>
+        <ukm:UnappliedEffect Type="inserted" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2007" AffectingNumber="15" AffectedSectionRef="section-1-1A" AffectingSectionRef="section-60-2" AffectingURI="/id/ukpga/2007/15/section/60/2" AffectedURI="/id/ukpga/1965/22/section/1/1A"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2007" AffectingNumber="15" AffectedSectionRef="section-1-2" AffectingSectionRef="section-60-3" AffectingURI="/id/ukpga/2007/15/section/60/3" AffectedURI="/id/ukpga/1965/22/section/1/2"/>
+        <ukm:UnappliedEffect Type="Commencement Order" Notes="commencement order for 2002 c. 26" AffectingClass="NorthernIrelandStatutoryRule" AffectingYear="2007" AffectingNumber="237" AffectingSectionRef="article-2" AffectingURI="/id/nisr/2007/237/article/2"/>
+        <ukm:UnappliedEffect Type="text amended" Notes="" AffectingClass="UnitedKingdomPublicGeneralAct" AffectingYear="2005" AffectingNumber="4" AffectedSectionRef="section-6" AffectingSectionRef="schedule-17-paragraph-17" AffectingURI="/id/ukpga/2005/4/schedule/17/paragraph/17" AffectedURI="/id/ukpga/1965/22/section/6"/>
+      </ukm:UnappliedEffects>
+    </ukm:PrimaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsTitle>Law Commissions Act 1965</ContentsTitle>
+    <ContentsItem ContentRef="section-1" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/1" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/1" RestrictExtent="E+W+S+N.I.">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle> The Law Commission</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-2" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/2" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/2" RestrictExtent="E+W+S+N.I." RestrictStartDate="1999-07-01">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle> The Scottish Law Commission</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-3" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/3" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/3" RestrictExtent="E+W+S+N.I." RestrictStartDate="1999-07-01">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle> Functions of the Commissions</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-4" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/4" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/4" RestrictExtent="E+W+S+N.I." RestrictStartDate="1999-07-01">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle> Remuneration and pensions of Commissioners</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-5" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/5" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/5" RestrictExtent="E+W+S+N.I." RestrictStartDate="1999-07-01">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle> Staff and expenses</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-6" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/6" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/6" RestrictExtent="E+W+S+N.I." RestrictStartDate="1999-07-01">
+      <ContentsNumber>6</ContentsNumber>
+      <ContentsTitle> Supplemental</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="section-7" DocumentURI="http://www.legislation.gov.uk/ukpga/1965/22/section/7" IdURI="http://www.legislation.gov.uk/id/ukpga/1965/22/section/7">
+      <ContentsNumber>7</ContentsNumber>
+      <ContentsTitle> Short title</ContentsTitle>
+    </ContentsItem>
+  </Contents>
+</Legislation>

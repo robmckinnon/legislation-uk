@@ -1,3 +1,4 @@
+v0.0.5 create sections for acts that don't contain parts
 v0.0.4 now returns statutelaw uri for a part and for a section
 v0.0.3 now returns opsi uri and legislation uri for a section
 v0.0.2 now returns opsi url, statutelaw url and legislation url

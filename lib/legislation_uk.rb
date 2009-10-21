@@ -74,8 +74,10 @@ module LegislationUK
     end
 
     def sections
-      if parts
+      if !parts.empty?
         parts.collect(&:sections).flatten
+      elsif respond_to?(:contents) && contents
+        contents.sections
       else
         []
       end
@@ -161,6 +163,10 @@ module LegislationUK
     def parts
       return_values :contents_parts
     end
+
+    def sections
+      return_values :contents_items
+    end
   end
 
   class ContentsPart
@@ -227,7 +233,7 @@ end
 # See README for usage documentation.
 module Legislation
   module UK
-    VERSION = "0.0.4"
+    VERSION = "0.0.5"
 
     def self.open_uri uri
       open(uri).read
