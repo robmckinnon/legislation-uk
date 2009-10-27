@@ -293,7 +293,7 @@
     </ContentsPart>
     <ContentsPart ContentRef="part-II" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/II" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/II" RestrictExtent="E+W+S+N.I." RestrictStartDate="1996-12-18">
       <ContentsNumber>Part II</ContentsNumber>
-      <ContentsTitle> The A2 and M2 Improvement Works</ContentsTitle>
+      <ContentsTitle><SmallCaps> The A2 and M2 Improvement Works</SmallCaps></ContentsTitle>
       <ContentsItem ContentRef="section-44" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/44" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/44">
         <ContentsNumber>44</ContentsNumber>
         <ContentsTitle> Authorised works</ContentsTitle>

@@ -6,7 +6,15 @@ module LegislationUK
 
   module TitleHelper
     def title
-      contents_title.is_a?(String) ? contents_title.strip : contents_title.title.strip
+      if contents_title.is_a?(String)
+        contents_title.strip
+      elsif contents_title.respond_to?(:title)
+        contents_title.title.strip
+      elsif contents_title.respond_to?(:small_caps)
+        contents_title.small_caps.strip
+      else
+        raise "no title found for: #{contents_title.inspect}"
+      end
     end
   end
 
