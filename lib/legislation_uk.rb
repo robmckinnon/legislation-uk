@@ -149,7 +149,7 @@ module LegislationUK
         if @opsi_sections[section_number]
           @opsi_sections[section_number][:opsi_uri]
         else
-          puts "no opsi url for #{section_number}\n" + @opsi_sections.inspect + "\n\nno opsi url for #{section_number}\n"
+          puts "no opsi url for section #{section_number}, #{title} \n"
           nil
         end
       else
