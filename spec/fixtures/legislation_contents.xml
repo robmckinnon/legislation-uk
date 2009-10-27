@@ -309,7 +309,7 @@
     </ContentsPart>
     <ContentsPart ContentRef="part-III" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/part/III" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/part/III">
       <ContentsNumber>Part III</ContentsNumber>
-      <ContentsTitle> Miscellaneous and General</ContentsTitle>
+      <ContentsTitle>          <Emphasis>Proceedings under <Acronym Expansion="European Community">EC</Acronym> Regulations: modified definition of property</Emphasis></ContentsTitle>
       <ContentsItem ContentRef="section-47" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/61/section/47" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/61/section/47" ConfersPower="true">
         <ContentsNumber>47</ContentsNumber>
         <ContentsTitle> Time limit for powers of compulsory acquisition</ContentsTitle>

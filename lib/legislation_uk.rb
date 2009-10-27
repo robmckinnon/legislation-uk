@@ -8,14 +8,17 @@ module LegislationUK
     def title
       if contents_title.is_a?(String)
         contents_title.strip
-      elsif contents_title.respond_to?(:title)
+      elsif contents_title.respond_to?(:title) && contents_title.title
         contents_title.title.strip
-      elsif contents_title.respond_to?(:small_caps)
+      elsif contents_title.respond_to?(:small_caps) && contents_title.small_caps
         contents_title.small_caps.strip
+      elsif contents_title.respond_to?(:emphasis) && contents_title.emphasis
+        contents_title.emphasis.strip
       else
         raise "no title found for: #{contents_title.inspect}"
       end
     end
+
   end
 
   module ItemNumberHelper
@@ -274,6 +277,8 @@ module Legislation
       xml.gsub!(' Type=',' TheType=')
       xml.gsub!(' type=',' thetype=')
       xml.gsub!('dc:type','dc:the_type')
+      xml.gsub!(/<Acronym [^>]+>/,'')
+      xml.gsub!('</Acronym>','')
       hash = Hash.from_xml(xml)
       namespace = LegislationUK
       legislation = Morph.from_hash(hash, namespace)

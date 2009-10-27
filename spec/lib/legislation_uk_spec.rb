@@ -62,7 +62,7 @@ describe Legislation::UK do
           @parts[0].title.class.name.should == 'String'
           @parts[0].title.should == 'The Channel Tunnel Rail Link'
           @parts[1].title.should == 'The A2 and M2 Improvement Works'
-          @parts[2].title.should == 'Miscellaneous and General'
+          @parts[2].title.should == 'Proceedings under EC Regulations: modified definition of property'
         end
 
         it 'should have a legislation_uri for each part' do
