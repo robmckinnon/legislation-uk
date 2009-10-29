@@ -18,7 +18,6 @@ module LegislationUK
         raise "no title found for: #{contents_title.inspect}"
       end
     end
-
   end
 
   module ItemNumberHelper
@@ -184,7 +183,12 @@ module LegislationUK
           number_of_section = number_span.inner_text.strip
           @opsi_sections[number_of_section] = { :title => section_title, :opsi_uri => "#{opsi_uri}##{number_span['id']}"}
         end
-        @opsi_sections[section_number][:opsi_uri]
+        if @opsi_sections[section_number]
+          @opsi_sections[section_number][:opsi_uri]
+        else
+          puts "no opsi url for section #{section_number}, #{title} \n"
+          nil
+        end
       end
   end
 
